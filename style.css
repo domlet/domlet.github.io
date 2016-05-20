@@ -5,7 +5,7 @@ background-size: 100% auto; }
 body, h1, h2, h3, li, p, div{font-family: sans-serif; line-height: 150%; margin: auto}
 
 #itinerary {  border: 1px solid gray; text-align: center; margin: auto}
-.head, .post {width: 60%; padding: auto;}
+.head, .post {width: 60%; }
 .head, h1, h2 {text-align: center; }
 
 h1 {font-size: 2em}
@@ -30,6 +30,6 @@ a:visited { color: hotpink;}
   }
   h3 { font-size: .8em 
   }
-  p {background-color: fff
+  p {background-color: #fff
   }
 }
