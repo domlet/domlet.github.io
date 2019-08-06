@@ -5,7 +5,6 @@
 <title>Mapbox Screenshot Helper - @domlet</title>
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.js'></script>
-<script type='text/javascript' src='config.js'></script> <!-- MAPBOX_SECRET_TOKEN -->
 <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.2.0/mapbox-gl.css' rel='stylesheet' />
 </head>
 <body>
@@ -63,9 +62,8 @@
 
 <script>
 
-	var MAPBOX_SECRET_TOKEN = config.MAPBOX_SECRET_TOKEN; // HIDE YO KEYS
-
-	mapboxgl.accessToken = MAPBOX_SECRET_TOKEN;
+	// Token restricted to https://domlet.github.io
+	mapboxgl.accessToken = pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg;
 	var map = new mapboxgl.Map({
 		container: 'map',
 		style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
