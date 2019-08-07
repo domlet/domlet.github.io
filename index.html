@@ -13,22 +13,23 @@
 	body { margin:0; padding:0; background: #000}
 	#map { position:absolute; top:0; bottom:0; width:96%; left:4%; z-index: 1;}
 	#buttons, #styles {margin: 0; padding: 0; width: 4%; position: relative; left:0; white-space: nowrap}
-	.button { display: block; position: relative; cursor: pointer; padding:.2em .4em; margin: 0; font-size: 8px; color: #666; font-family: sans-serif; font-weight: bold; }
+	.button { display: block; position: relative; cursor: pointer; padding:.2em .4em; margin: 0; font-size: 10px; color: silver; font-family: sans-serif; font-weight: bold; }
+	.button:hover, :active {background: #666; color: #fff}
 </style>
 
 <div id='map'></div>
+<!-- <input type="text" style="width:10%; z-index: 2; position: absolute; bottom: 0%; background: rgba(255,255,255, 0.5);right: 15%; padding: 0 .5em; height: 1.65em; font-family: 'arial'; border: 0; margin: 0 auto" name=""> -->
 <ul id=styles>
 	<li class='button' id="style-mapbox://styles/dombox/cjypzncg559dz1cr1jcm7h36y">😎 Bubble</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwswpg11rs01cozlj976vxy">😎 Satellite</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwsxb1j0j6u1clmh9ln13jx">✅ Satellite Streets</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwsz4fn8ri61cs615ndwx6k">✅ Light</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwt0bw60hxh1cmqajlx8ek4">✅ Streets</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxtt5s483ssd1cpo8cj63edv">✅ Stranger Things</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwsp0pfbg6a1ckc67dt4jkm">✅ Streets</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwmhctxbaba1cqmvrmq7w7y">✅ Basic</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjz0h2eza5p151dl3z4hao8s1">✅ Streets</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxwsz4fn8ri61cs615ndwx6k">✅ Light</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv">✅ Outdoors</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxtt4wp98n7v1cnrq3du7sd9">✅ 8-bit</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxv1igjj73y81cs6te131gbz">✅ Monochrome</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxtt5s483ssd1cpo8cj63edv">✅ Stranger Things</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxtt4wp98n7v1cnrq3du7sd9">✅ 8-bit</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjva3lwxa8k8c1fqxyhq4zctq">😲 Architect</li> <!-- supports trad zh only, pls add si -->
 	<li class='button' id="style-mapbox://styles/dombox/cjvwqf97m13lh1cmrduzv0lul">😲 Minimo</li> <!-- supports trad zh only, pls add si -->
 	<li class='button' id="style-mapbox://styles/dombox/cjphp0huz3ima2rl8tbf0fsxl">😲 Ski</li> <!-- supports trad zh only, pls add si -->
@@ -62,14 +63,14 @@
 
 <script>
 
-	// Token restricted to https://domlet.github.io
-	mapboxgl.accessToken = pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg;
-	var map = new mapboxgl.Map({
-		container: 'map',
-		style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
-		center: [16.05, 48],
-		zoom: 2.9
-	});
+	// Token restricted to domlet.github.io
+mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg';
+var map = new mapboxgl.Map({
+container: 'map', // container id
+style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
+center: [10, 40], // starting position [lng, lat]
+zoom: 2 // starting zoom
+});
 	 
 	// LANGUAGE-SWITCHER
 	document.getElementById('buttons').addEventListener('click', function(changelanguage) {
