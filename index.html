@@ -12,14 +12,15 @@
 <style>
 	body { margin:0; padding:0; background: #000}
 	#map { position:absolute; top:0; bottom:0; width:96%; left:4%; z-index: 1;}
-	#buttons, #styles {margin: 0; padding: 0; width: 4%; position: relative; left:0; white-space: nowrap}
-	.button { display: block; position: relative; cursor: pointer; padding:.2em .4em; margin: 0; font-size: 10px; color: silver; font-family: sans-serif; font-weight: bold; }
-	.button:hover, :active {background: #666; color: #fff}
+	#buttons {margin: 0; padding: 0; width: 4%; position: relative; left:0; white-space: nowrap}
+	.button, :visited, :link { display: block; position: relative; cursor: pointer; padding:.2em .4em; margin: 0; font-size: 10px; color: silver; font-family: sans-serif; font-weight: bold; text-decoration: none }
+	.button:hover, a:hover {background: lime; color: #fff; z-index: 2; color: #000}
+
 </style>
 
 <div id='map'></div>
 <!-- <input type="text" style="width:10%; z-index: 2; position: absolute; bottom: 0%; background: rgba(255,255,255, 0.5);right: 15%; padding: 0 .5em; height: 1.65em; font-family: 'arial'; border: 0; margin: 0 auto" name=""> -->
-<ul id=styles>
+<ul id=buttons>
 	<li class='button' id="style-mapbox://styles/dombox/cjypzncg559dz1cr1jcm7h36y">😎 Bubble</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwswpg11rs01cozlj976vxy">😎 Satellite</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwsxb1j0j6u1clmh9ln13jx">✅ Satellite Streets</li>
@@ -61,10 +62,28 @@
 <li id='button-ko' class='button'>KO</li>
 </ul>
 
+<ul id="buttons">
+	<li class='button'><a href="https://www.mapbox.com/gallery/#blueprint" target="_blank">👀 Blueprint</a></li>
+	<li class='button'><a href="https://api.mapbox.com/styles/v1/brynnehenn/cjmi1kx1r9b5v2rnyqxzo3u8f.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYnJ5bm5laGVubiIsImEiOiJjamlreXc1MTQxM2w5M3JwaXJ3aDkxc2U1In0.5dQesEq8gNaPM_k3Zz76Uw#11.7/37.770216/-122.391477/0" target="_blank">👀 Blueprint Update (looks like architect)</a></li>
+	<li class='button'><a href="https://a.tiles.mapbox.com/v4/mapbox.4iecw76a/page.html?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpemc0YWlpNzAwcXUyd21ldDV6OWpxMGwifQ.A92RQZpwUgtGtCmdSE4-ow&secure=1#16/48.8656/2.3170" target="_blank">👀 Death Star</a></li>
+	<li class='button'><a href="https://www.mapbox.com/gallery/#frank" target="_blank">👀 Frank</a></li>
+	<li class='button'><a href="https://api.mapbox.com/styles/v1/dombox/cjphcyd5e2sns2sqn8dxyscw5.html?fresh=true&title=true&access_token=pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0aHJxYjA3dnozY3BxbGw2a2dsNWQifQ.p9uWoaFSE6qSIY415Q8cSQ#4.9/-2.900000/39.240000/0" target="_blank">👀 Labelmaker</a></li>
+	<li class='button'><a href="https://www.mapbox.com/gallery/#moves-map" target="_blank">👀 Moves map</a></li>
+	<li class='button'><a href="https://api.mapbox.com/styles/v1/mapbox/cjpn02blt2cw32sqrt9r8e5c3.html?fresh=true&title=true&access_token=pk.eyJ1IjoibGVlbWFydGluIiwiYSI6IkwtSnp4NkUifQ.upUF1cX3sZPGMK5YPDGUtg#0/0/0" target="_blank">👀 New Western</a></li>
+	<li class='button'><a href="https://a.tiles.mapbox.com/v4/examples.a4c252ab/page.html?access_token=pk.eyJ1Ijoic3RhbWVuIiwiYSI6IlpkZEtuS1EifQ.jiH_c9ShtBwtqH9RdG40mw#15/44.8074/-0.5691" target="_blank">👀 Pencil</a></li>
+	<li class='button'><a href="http://a.tiles.mapbox.com/v3/aj.Sketchy2/page.html#2/15.5/-2.5" target="_blank">👀 Pirate</a></li>
+	<li class='button'><a href="https://labs.mapbox.com/bites/00183/polarmap.html#3.76/-0.43/-11.58" target="_blank">👀 Polar</a></li>
+	<li class='button'><a href="https://www.mapbox.com/gallery/#standard" target="_blank">👀 Standard</a></li>
+	<li class='button'><a href="https://www.mapbox.com/gallery/#swiss-ski" target="_blank">👀 Swiss Ski</a></li>
+	<li class='button'><a href="https://api.mapbox.com/styles/v1/mslee/cif5p01n202nisaktvljx9mv3.html?title=true&access_token=pk.eyJ1IjoibXNsZWUiLCJhIjoiclpiTWV5SSJ9.P_h8r37vD8jpIH1A6i1VRg#3.39/38.39/13.31" target="_blank">👀 Vintage</a></li>
+	<li class='button'><a href="https://api.mapbox.com/styles/v1/mslee/cif5p01n202nisaktvljx9mv3.html?title=true&access_token=pk.eyJ1IjoibXNsZWUiLCJhIjoiclpiTWV5SSJ9.P_h8r37vD8jpIH1A6i1VRg#3.39/38.39/13.31" target="_blank">👀 Vintage</a></li>
+	<li class='button'><a href="https://api.mapbox.com/styles/v1/mzdraper/cjyxkl7gd2zs51cp79pb84pqz.html?fresh=true&title=true&access_token=pk.eyJ1IjoibXpkcmFwZXIiLCJhIjoiY2poZ3J5MDdlMDB6ajM2cDF6bmNpNWVqaiJ9.f9viSl0MaQiYFBfA2P67NA#13.22/37.77091/-122.44146" target="_blank">👀 Wheatpaste Remake</a></li>
+	<li class='button'><a href="https://a.tiles.mapbox.com/v4/mapbox.b0v97egc/page.html?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpemc0YWlpNzAwcXUyd21ldDV6OWpxMGwifQ.A92RQZpwUgtGtCmdSE4-ow&secure=1#13/37.7662/-122.4337" target="_blank">👀 Woodcut</a></li>
+</ul>
+
 <script>
 
-	// Token restricted to domlet.github.io
-mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg';
+mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg'; // restricted token
 var map = new mapboxgl.Map({
 container: 'map', // container id
 style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
