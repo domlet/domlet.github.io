@@ -12,27 +12,28 @@
 <style>
 	body { margin:0; padding:0; background: #000}
 	#map { position:absolute; top:0; bottom:0; width:96%; left:4%; z-index: 1;}
-	#buttons {margin: 0; padding: 0; width: 4%; position: relative; left:0; white-space: nowrap}
+	#languages, #styles, #links {margin: 0; padding: 0; width: 4%; position: relative; left:0; white-space: nowrap}
 	.button, :visited, :link { display: block; position: relative; cursor: pointer; padding:.2em .4em; margin: 0; font-size: 10px; color: silver; font-family: sans-serif; font-weight: bold; text-decoration: none }
 	.button:hover, a:hover {background: lime; color: #fff; z-index: 2; color: #000}
-
+	.mapboxgl-ctrl-attrib-inner, .mapboxgl-ctrl-bottom-left { display: none}
+	#links li {margin: 0; padding: 0}
 </style>
 
 <div id='map'></div>
 <!-- <input type="text" style="width:10%; z-index: 2; position: absolute; bottom: 0%; background: rgba(255,255,255, 0.5);right: 15%; padding: 0 .5em; height: 1.65em; font-family: 'arial'; border: 0; margin: 0 auto" name=""> -->
-<ul id=buttons>
+<ul id=styles>
 	<li class='button' id="style-mapbox://styles/dombox/cjypzncg559dz1cr1jcm7h36y">😎 Bubble</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjxwswpg11rs01cozlj976vxy">😎 Satellite</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwsxb1j0j6u1clmh9ln13jx">✅ Satellite Streets</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwmhctxbaba1cqmvrmq7w7y">✅ Basic</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjz0h2eza5p151dl3z4hao8s1">✅ Streets</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwsz4fn8ri61cs615ndwx6k">✅ Light</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv">✅ Outdoors</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxv1igjj73y81cs6te131gbz">✅ Monochrome</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxtt5s483ssd1cpo8cj63edv">✅ Stranger Things</li>
-	<li class='button' id="style-mapbox://styles/dombox/cjxtt4wp98n7v1cnrq3du7sd9">✅ 8-bit</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxwsxb1j0j6u1clmh9ln13jx">⓼ Satellite Streets</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxwmhctxbaba1cqmvrmq7w7y">⓼ Basic</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjz0h2eza5p151dl3z4hao8s1">⓼ Streets</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxwsz4fn8ri61cs615ndwx6k">⓼ Light</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv">⓼ Outdoors</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxv1igjj73y81cs6te131gbz">⓼ Monochrome</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxtt5s483ssd1cpo8cj63edv">⓼ Stranger Things</li>
+	<li class='button' id="style-mapbox://styles/dombox/cjxtt4wp98n7v1cnrq3du7sd9">⓼ 8-bit</li>
 	<li class='button' id="style-mapbox://styles/dombox/cjva3lwxa8k8c1fqxyhq4zctq">😲 Architect</li> <!-- supports trad zh only, pls add si -->
-	<li class='button' id="style-mapbox://styles/dombox/cjvwqf97m13lh1cmrduzv0lul">😲 Minimo</li> <!-- supports trad zh only, pls add si -->
+	<li class='button' id="style-mapbox://styles/dombox/cjz1x17yq06qo1ckejq8lkluy">😲 Minimo</li> <!-- supports trad zh only, pls add si -->
 	<li class='button' id="style-mapbox://styles/dombox/cjphp0huz3ima2rl8tbf0fsxl">😲 Ski</li> <!-- supports trad zh only, pls add si -->
 	<li class='button' id="style-mapbox://styles/dombox/cjnfk4z4d0ldl2rs75q1rbfbp">😲 Cartogram</li> <!-- supports trad zh only, pls add si -->
 	<li class='button' id="style-mapbox://styles/dombox/cjxv0ris112iv1cnstvpg0xmu">❌ Decimal</li>
@@ -48,21 +49,22 @@
 	<li class='button' id="style-mapbox://styles/dombox/cjxznq79v0k8q1cn2axfe4ktm">❌ Cali Terrain</li>
 </ul>
 
-<ul id="buttons">
-<li id='button-en' class='button'>EN</li>
-<li id='button-es' class='button'>ES</li>
-<li id='button-fr' class='button'>FR</li>
-<li id='button-de' class='button'>DE</li>
-<li id='button-ru' class='button'>RU</li>
-<li id='button-zh' class='button'>ZH</li>
-<li id='button-zh-Hans' class='button'>ZHS</li> <!-- CHINESE SIMPLIFIED -->
-<li id='button-pt' class='button'>PT</li>
-<li id='button-ar' class='button'>AR</li>
-<li id='button-ja' class='button'>JA</li>
-<li id='button-ko' class='button'>KO</li>
+<ul id="languages">
+	<li id='button-en' class='button'>EN English</li>
+	<li id='button-es' class='button'>ES Español</li>
+	<li id='button-fr' class='button'>FR Française</li>
+	<li id='button-de' class='button'>DE Deutsche</li>
+	<li id='button-pt' class='button'>PT Portuguesa</li>
+	<li id='button-ru' class='button'>RU Pусский</li>
+	<li id='button-ar' class='button'>AR عربى</li>
+	<li id='button-ja' class='button'>JA 日本人</li>
+	<li id='button-ko' class='button'>KO 한국어</li>
+	<li id='button-zh' class='button'>ZH 中文 Traditional</li> <!-- trad v7 -->
+	<li id='button-zh-Hant' class='button'>ZH-Hant 中文 Traditional ⓼</li> <!-- trad v8 -->
+	<li id='button-zh-Hans' class='button'>ZH-Hans 中文 Simplified ⓼</li> <!-- CHINESE SIMPLIFIED v7 v8 -->
 </ul>
 
-<ul id="buttons">
+<ul id="links">
 	<li class='button'><a href="https://www.mapbox.com/gallery/#blueprint" target="_blank">👀 Blueprint</a></li>
 	<li class='button'><a href="https://api.mapbox.com/styles/v1/brynnehenn/cjmi1kx1r9b5v2rnyqxzo3u8f.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYnJ5bm5laGVubiIsImEiOiJjamlreXc1MTQxM2w5M3JwaXJ3aDkxc2U1In0.5dQesEq8gNaPM_k3Zz76Uw#11.7/37.770216/-122.391477/0" target="_blank">👀 Blueprint Update (looks like architect)</a></li>
 	<li class='button'><a href="https://a.tiles.mapbox.com/v4/mapbox.4iecw76a/page.html?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpemc0YWlpNzAwcXUyd21ldDV6OWpxMGwifQ.A92RQZpwUgtGtCmdSE4-ow&secure=1#16/48.8656/2.3170" target="_blank">👀 Death Star</a></li>
@@ -83,7 +85,7 @@
 
 <script>
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg'; // restricted token
+// mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg'; // restricted token
 var map = new mapboxgl.Map({
 container: 'map', // container id
 style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
@@ -92,13 +94,25 @@ zoom: 2 // starting zoom
 });
 	 
 	// LANGUAGE-SWITCHER
-	document.getElementById('buttons').addEventListener('click', function(changelanguage) {
+
+	document.getElementById('languages').addEventListener('click', function(changelanguage) {
+
 		var language = changelanguage.target.id.substr('button-'.length);
 		// Use setLayoutProperty to set the value of a layout property in a style layer.
 		// The three arguments are the id of the layer, the name of the layout property,
 		// and the new property value.
-		map.setLayoutProperty('country-label', 'text-field', ['get', 'name_' + language]);
+		map.setLayoutProperty('country-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('state-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('place-city-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('place-town-village-hamlet-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('place-neighborhood-suburb-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('airport-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('poi-label', 'text-field', ['get', 'name_' + language]); // Basic
+		map.setLayoutProperty('road-label', 'text-field', ['get', 'name_' + language]); // Basic
 	});
+
+
+// can i set a fallback value for name so that if a layer has only name "The Bank" and no "name_en" or any other language, changing to that language shows fallback instead of blank vlad or ryan hamley
 
 	// STYLE-SWITCHER
 	document.getElementById('styles').addEventListener('click', function(changestyle) {
