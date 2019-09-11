@@ -91,12 +91,14 @@
 <script>
 
 var key = config.MAPBOX_SECRET_TOKEN // HIDE YO KEYS
-// mapboxgl.accessToken = key;
-mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg'; // restricted token
+mapboxgl.accessToken = key;
+// mapboxgl.accessToken = 'pk.eyJ1IjoiZG9tYm94IiwiYSI6ImNqeXo0amwxcjAxMmQzY3J0d3F6b2JkOTgifQ.ef_wY4EWLDKLbvxmB75BHg'; // restricted token
+// mapboxgl.accessToken = 'pk.eyJ1Ijoid2lsbHdoaXRlIiwiYSI6ImNpamV3dTdhbTAwMTB0Zm01MGY1OGRtaDIifQ.NkgyaKN3zpCZ8jRZ0Zjfjg'; // wwhite token
 
 var map = new mapboxgl.Map({
 	container: 'map', // container id
-	style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
+	// style: 'mapbox://styles/dombox/cjxwstgts0hqo1cn1ri0oy6lv', // Outdoors
+		style: 'mapbox://styles/willwhite/cjkmusatv0rox2roea7dz7r1p', // ww vision
 	center: [10, 40], // starting position [lng, lat]
 	zoom: 2 // starting zoom
 });
