@@ -12,8 +12,9 @@ tags:
     collaboration,
     historiography,
     Mapbox,
+    books,
   ]
-description: How I adapted a visual poster into an interactive web map to explore the United States.
+description: Interactive web map to explore the USA.
 toc: true
 image:
   path: /assets/img/th-domlet-literary-map-1200x630.gif
@@ -87,9 +88,8 @@ open https://sfpl.bibliocommons.com/v2/search?query=The%20Book%20Of%20Unknown%20
 I reached out to the team 3 Fish Studios to let them know I adapted their map:
 
 > Hello friends! A few months ago I was inspired to create an interactive version of the Literary Map of the United States which I believe is a creation from one of your designers. I accidentally racked up some hosting charges related to mapping resources, so I've partially dismantled the project...but I do want to reach out and thank you for your creation, and check in about whether you feel properly credited. I'm a high school computer science teacher, so I'm not a FT web developer and I don't have an income stream related to this project – but if there is a way I can send you more paying customers for your work, I would like to be helpful! The online project can be viewed here on GitHub: https://github.com/domlet/literary-map/blob/main/README.md Yours truly, Dom
-> {: .prompt-info }
 
-Co-owner Eric Rewitzer replied, sharing that the project was initially developed for California Bookstore Day back in 2014, and it has since grown to be part of [Independent Bookstore Day](https://www.bookweb.org/independent-bookstore-day), which takes place annually on the last Saturday in April. 3 Fish also did two other maps for this project: The Literary Map of the Seas and The Literary Map of the Universe. _So cool._
+Co-owner Eric Rewitzer replied, sharing that the project was initially developed for California Bookstore Day back in 2014, and it has since grown to be part of [Independent Bookstore Day](https://www.bookweb.org/independent-bookstore-day). (Takes place annually on the last Saturday in April.) 3 Fish also did two other maps for this project: The Literary Map of the Seas and The Literary Map of the Universe. _So cool._
 
 ## Future steps
 

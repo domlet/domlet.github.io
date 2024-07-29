@@ -1,0 +1,19 @@
+---
+# the default layout is 'page'
+title: "Student Dashboard (Visual Countdown)"
+date: 2023-05-23T16:47:20+0000
+categories: [projects, Ed Tech]
+tags:
+  [
+JavaScript, web app, data visualization, solving everyday problems
+  ]
+description: Visual countdown of the school year.
+toc: true
+image:
+  path: /assets/img/th-domlet-student-dashboard-1200x630.jpg
+  alt: Srudents can easily see how close we are to the end of a term, or the next holiday!
+---
+
+## View the project
+
+See the [live dashboard here](https://domlet.github.io/dashboard).

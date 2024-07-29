@@ -15,10 +15,10 @@ tags:
     historiography,
     Black Lives Matter,
   ]
-description: Google Maps is easiest. But you can use the Pandas and Folium for Python with leaflet.js
+description: Google Maps is easier than what I did.
 toc: true
 image:
-  path: /assets/img/th-dots-on-a-map-1200x630.jpg
+  path: /assets/img/th-domlet-dots-on-a-map-1200x630.jpg
   alt: Just use Google Maps. But I learned how to use Python and Leaflet.
 ---
 
