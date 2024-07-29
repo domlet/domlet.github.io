@@ -3,7 +3,18 @@
 title: "'Just put dots on a map' (CSV file)"
 date: 2024-07-01T16:47:20+0000
 categories: [projects, maps]
-tags: [web map, black lives matter]
+tags:
+  [
+    web maps,
+    Oakland,
+    Python,
+    leaflet.js,
+    Python Data Analysis Library (pandas),
+    Folium,
+    virtual environment,
+    historiography,
+    Black Lives Matter,
+  ]
 description: Google Maps is easiest. But you can use the Pandas and Folium for Python with leaflet.js
 toc: true
 image:

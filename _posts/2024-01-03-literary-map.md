@@ -1,9 +1,18 @@
 ---
 # the default layout is 'page'
 title: "Literary Map of the United States"
-date: 2024-07-29T16:47:20+0000
+date: 2024-01-03T16:47:20+0000
 categories: [projects, maps]
-tags: [web map, reading, united states, postcolonialism, collaboration]
+tags:
+  [
+    web maps,
+    reading,
+    united states,
+    postcolonial,
+    collaboration,
+    historiography,
+    Mapbox,
+  ]
 description: How I adapted a visual poster into an interactive web map to explore the United States.
 toc: true
 image:
