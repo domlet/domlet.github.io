@@ -7,33 +7,21 @@ tags: [web map, reading, united states, postcolonialism, collaboration]
 description: How I adapted a visual poster into an interactive web map to explore the United States.
 toc: true
 image:
-  path: /assets/img/th-literary-map.jpg
-  alt: image alternative text
+  path: /assets/img/th-domlet-literary-map-1200x630.gif
+  alt: Users can click a state on the Literary Map and see a popup showing the book recommendation for that state.
 ---
 
-# Literary Map of the United States
+## Original poster
 
-## The inspiration
+Around 2020, I walked into [Green Apple Books](https://www.greenapplebooks.com/) in San Francisco and purchased a charming color poster titled _Literary Map of the United States_ (ISBN: [9780991171095](https://www.google.com/search?q=ISBN%3A+9780991171095)) by the designers at [3 Fish Studios](https://www.3fishstudios.com/). I was so enchanted (partly because structured data is one of my love languages) that I bought the poster for my niece, and now when I visit my sister's house I always see it on the wall. ❤️
 
-Sometime around 2020 I walked into [Green Apple Books](https://www.greenapplebooks.com/) in San Francisco and purchased a charming color poster titled _Literary Map of the United States_ (ISBN: 9780991171095) by the designers at [3 Fish Studios](https://www.3fishstudios.com/). I was so enchanted (partly because structured data is one of my love languages) that I bought the poster for my niece, and now when I visit my sister's house I always see it on the wall. ❤️
+## My adaptation for the web
 
-## My adaptation
-
-### Goals
-
-- Practice my JavaScript
-- Reflect on the historiography embedded in this collection of titles
-- Deepen my knowledge of U.S. history
-
-### Vision
-
-I envisioned an interactive map that users could access on a web or mobile client, where they could click on states to reveal the [suggested book titles](https://www.goodreads.com/review/list/25373-dom) – and then explore or actually access these titles (as e-books or audiobooks).
+I envisioned an interactive map that users could access on a web or mobile client, where they could click on states to reveal the [suggested book titles](https://www.goodreads.com/review/list/25373-dom) – and then explore or actually access these titles (as e-books or audiobooks). So, with the goals of practicing my JavaScript, reflecting on the historiography embedded in this collection of titles, and deepening my knowledge of U.S. history, I set about adapting this map for the web.
 
 See the [live map](https://domlet.github.io/literary-map).
 
-![](assets/img/literary-map-demo-500px.gif){: .shadow }
-
-### Structuring the data
+### How I structured the data
 
 To achieve this vision, I first manually [recreated the data set](https://docs.google.com/spreadsheets/d/1kcxMgFJvpx5HScnQBdH8BzgavMmKPC0hCttOQx20IN0/edit?gid=1752591852#gid=1752591852) (`states`, `titles`, `authors`) in Google Sheets so I could structure batch queries to acquire the spatial, multimedia, and URL data I needed to build the map and make it interactive.
 
@@ -84,6 +72,15 @@ open https://sfpl.bibliocommons.com/v2/search?query=The%20Book%20Of%20Unknown%20
 ### Tileset costs
 
 - I accidentally incurred big accidental tileset hosting costs from Mapbox and had to delete a hosted tileset.
+
+### Contacting the original author
+
+I reached out to the team 3 Fish Studios to let them know I adapted their map:
+
+> Hello friends! A few months ago I was inspired to create an interactive version of the Literary Map of the United States which I believe is a creation from one of your designers. I accidentally racked up some hosting charges related to mapping resources, so I've partially dismantled the project...but I do want to reach out and thank you for your creation, and check in about whether you feel properly credited. I'm a high school computer science teacher, so I'm not a FT web developer and I don't have an income stream related to this project – but if there is a way I can send you more paying customers for your work, I would like to be helpful! The online project can be viewed here on GitHub: https://github.com/domlet/literary-map/blob/main/README.md Yours truly, Dom
+> {: .prompt-info }
+
+Co-owner Eric Rewitzer replied, sharing that the project was initially developed for California Bookstore Day back in 2014, and it has since grown to be part of [Independent Bookstore Day](https://www.bookweb.org/independent-bookstore-day), which takes place annually on the last Saturday in April. 3 Fish also did two other maps for this project: The Literary Map of the Seas and The Literary Map of the Universe. _So cool._
 
 ## Future steps
 
