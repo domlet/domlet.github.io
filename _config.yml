@@ -12,9 +12,9 @@ timezone: America/Los_Angeles
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dom Brassey # the main title
+title: Dom Brassey's Portfolio # the main title
 
-tagline: Projects Portfolio # it will display as the sub-title
+tagline: Creative projects related to education, digital arts, interactive web maps, inclusive design, and more. # the tagline shown below the title
 
 description: >- # used by seo meta and the atom feed
   I make web apps to help teachers and students.

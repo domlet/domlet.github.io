@@ -18,6 +18,7 @@ image:
 1. [_Polysecure: Attachment, Trauma and Consensual Nonmonogamy_ (Fern, Jessica)](https://www.goodreads.com/book/show/52569124-polysecure)
 1. [_Conscious Uncoupling: 5 Steps to Living Happily Even After_ (Katherine Woodward Thomas)](https://www.goodreads.com/book/show/22747762-conscious-uncoupling)
 1. [_Zillow Talk: The New Rules of Real Estate_ (Rascoff, Spencer)](https://www.goodreads.com/book/show/22217711-zillow-talk)
+1. [_Crash Override_](https://www.goodreads.com/book/show/28251812-crash-override) (Quinn, Zoe)
 
 ## All books
 
@@ -44,3 +45,4 @@ Here's [the full list on Goodreads](https://www.goodreads.com/user_challenges/30
 1. _The Obelisk Gate (The Broken Earth, #2)_ (Jemisin, N.K.)
 1. _Too Bright to See_ (Booth, David)
 1. _Conscious Uncoupling: 5 Steps to Living Happily Even After_ (Katherine Woodward Thomas)
+1. _Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate_ (Quinn, Zoe)

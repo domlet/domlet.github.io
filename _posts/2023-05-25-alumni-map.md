@@ -3,7 +3,7 @@ title: "Alumni Map"
 date: 2023-05-25T16:47:20+0000
 categories: [projects]
 tags: [solving everyday problems, Ed Tech]
-description: To help first generation students visualize college.
+description: How can we help students visualize college?
 toc: true
 image:
   path: assets/img/th-domlet-alumni-map-1200x630.jpg
