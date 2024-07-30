@@ -12,10 +12,10 @@ image:
 
 ## Top books
 
-1. [_Jayber Crow_ (Berry, Wendell)](https://www.goodreads.com/book/show/57460.Jayber_Crow)
 1. [_Range: Why Generalists Triumph in a Specialized World_ (Epstein, David)](https://www.goodreads.com/book/show/41795733-range)
-1. [_Work Won't Love You Back_ (Jaffe, Sarah)](https://www.goodreads.com/book/show/53241562-work-won-t-love-you-back)
 1. [_How to Be an Antiracist_ (Kendi, Ibram X.)](https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist)
+1. [_Jayber Crow_ (Berry, Wendell)](https://www.goodreads.com/book/show/57460.Jayber_Crow)
+1. [_Work Won't Love You Back_ (Jaffe, Sarah)](https://www.goodreads.com/book/show/53241562-work-won-t-love-you-back)
 
 ## All books
 

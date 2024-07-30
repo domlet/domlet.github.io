@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: "'Just put dots on a map' (CSV file)"
 date: 2024-07-01T16:47:20+0000
-categories: [projects, maps]
+categories: [projects]
 tags:
   [
     web maps,

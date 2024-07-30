@@ -2,10 +2,10 @@
 # the default layout is 'page'
 title: "Student Dashboard (Visual Countdown)"
 date: 2023-05-23T16:47:20+0000
-categories: [projects, Ed Tech]
+categories: [projects]
 tags:
   [
-JavaScript, web app, data visualization, solving everyday problems
+JavaScript, web app, data visualization, solving everyday problems, Ed Tech
   ]
 description: Visual countdown of the school year.
 toc: true

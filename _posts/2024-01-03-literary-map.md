@@ -2,7 +2,7 @@
 # the default layout is 'page'
 title: "Literary Map of the United States"
 date: 2024-01-03T16:47:20+0000
-categories: [projects, maps]
+categories: [projects]
 tags:
   [
     web maps,

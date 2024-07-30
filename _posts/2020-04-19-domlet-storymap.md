@@ -1,8 +1,7 @@
 ---
-# the default layout is 'page'
 title: "10 Places that made me @domlet"
 date: 2020-04-19T16:47:20+0000
-categories: [projects, maps]
+categories: [projects]
 tags: [web maps, historiography, Mapbox, Dom Brassey, storymap]
 description: A brief story map about Dom Brassey's life.
 toc: true
