@@ -14,7 +14,7 @@ timezone: America/Los_Angeles
 
 title: Dom Brassey's Portfolio # the main title
 
-tagline: Projects and posts related to web development, maps and data visualization, education, digital arts, and inclusive design. # the tagline shown below the title
+tagline: Projects and posts about web development, maps and data visualization, education, digital arts, and inclusive design.
 
 description: >- # used by seo meta and the atom feed
   I make web apps to help teachers and students.
