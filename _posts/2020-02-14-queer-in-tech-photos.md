@@ -2,7 +2,7 @@
 title: '"Queer in Tech" free stock photos'
 date: 2020-02-14T16:47:20+0000
 categories: [projects]
-tags: [Mapbox, Dom Brassey, queer]
+tags: [Mapbox, Dom Brassey, queer, greatest hits, solving everyday problems]
 description: I produced this collection of stock photos.
 toc: true
 image:

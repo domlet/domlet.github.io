@@ -5,7 +5,7 @@ date: 2023-05-23T16:47:20+0000
 categories: [projects]
 tags:
   [
-JavaScript, web app, data visualization, solving everyday problems, Ed Tech
+JavaScript, web app, data visualization, solving everyday problems, Ed Tech, greatest hits
   ]
 description: Visual countdown of the school year.
 toc: true
