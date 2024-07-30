@@ -7,10 +7,10 @@ description: Top picks from all the books I read this year.
 toc: true
 image:
   path: assets/img/th-reading-challenge-2022.JPG
-  alt: 10 book covers from this year's reading challenge.
+  alt: Click to see more books from this year's reading challenge.
 ---
 
-## Top books
+## Top recommendations
 
 1. [_Range: Why Generalists Triumph in a Specialized World_ (Epstein, David)](https://www.goodreads.com/book/show/41795733-range)
 1. [_How to Be an Antiracist_ (Kendi, Ibram X.)](https://www.goodreads.com/book/show/40265832-how-to-be-an-antiracist)

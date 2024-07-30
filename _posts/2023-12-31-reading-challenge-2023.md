@@ -7,10 +7,10 @@ description: Top picks from all the books I read this year.
 toc: true
 image:
   path: assets/img/th-reading-challenge-2023.JPG
-  alt: 10 book covers from this year's reading challenge.
+  alt: Click to see more books from this year's reading challenge.
 ---
 
-## Top books
+## Top recommendations
 
 1. [_Four Thousand Weeks: Time Management for Mortals_ (Burkeman, Oliver)](https://www.goodreads.com/book/show/54785515-four-thousand-weeks)
 1. [_Unmasking Autism: Discovering the New Faces of Neurodiversity_ (Price, Devon)](https://www.goodreads.com/book/show/58537365-unmasking-autism)

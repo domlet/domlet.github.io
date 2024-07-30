@@ -7,14 +7,13 @@ tags:
   [
     web maps,
     reading,
-    united states,
-    postcolonial,
+United States,    postcolonial,
     collaboration,
     historiography,
-    Mapbox,
     books,
+    JavaScript,Mapbox GL JS, web-based application
   ]
-description: Interactive web map to explore the USA.
+description: Can you read your way across the USA?
 toc: true
 image:
   path: /assets/img/th-domlet-literary-map-1200x630.gif

@@ -2,7 +2,19 @@
 title: "Alumni Map"
 date: 2023-05-25T16:47:20+0000
 categories: [projects]
-tags: [solving everyday problems, Ed Tech]
+tags:
+  [
+    solving everyday problems,
+    Ed Tech,
+    historiography,
+    greatest hits,
+    web maps,
+    data visualization,
+    JavaScript,
+    Mapbox GL JS,
+    web-based application,
+    teaching,
+  ]
 description: How can we help students visualize college?
 toc: true
 image:

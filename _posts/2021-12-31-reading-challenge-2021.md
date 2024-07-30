@@ -7,10 +7,10 @@ description: Top picks from all the books I read this year.
 toc: true
 image:
   path: assets/img/th-reading-challenge-2021.JPG
-  alt: 10 book covers from this year's reading challenge.
+  alt: Click to see more books from this year's reading challenge.
 ---
 
-## Top books
+## Top recommendations
 
 1. [_Abolish Silicon Valley: How to Liberate Technology from Capitalism_ (Liu, Wendy)](https://www.goodreads.com/book/show/48760481-abolish-silicon-valley)
 1. [_Eloquent Rage: A Black Feminist Discovers Her Superpower_ (Cooper, Brittney)](https://www.goodreads.com/book/show/33574165-eloquent-rage)

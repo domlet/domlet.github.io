@@ -2,7 +2,7 @@
 title: "DonorsChoose projects"
 date: 2024-07-29T16:47:20+0000
 categories: [projects]
-tags: [solving everyday problems, accessibility]
+tags: [solving everyday problems, accessibility, teaching]
 description: Creating a creative workspace for students.
 toc: true
 image:
