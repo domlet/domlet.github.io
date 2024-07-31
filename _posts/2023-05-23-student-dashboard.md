@@ -19,7 +19,13 @@ image:
 
 - See the [live dashboard here](https://domlet.github.io/dashboard).
 
-I use the Student Dashboard (Visual Countdown) as the startup webpage for computers in my classroom. It features the information that students most need:
+## Inspiration
+
+Although our school publishes important dates on a public Google Calendar, **high school students do not typically use Google Calendar**. Instead, they ask me for information like I am Siri. 💀 I created this dashboard to foster student independence and reduce my own cognitive load. 😌
+
+## What it does
+
+This [Student Dashboard (Visual Countdown)](https://domlet.github.io/dashboard) is the startup webpage for computers in my classroom. It features the information I think students need most:
 
 1. **The current date**, and day of the week.
 1. **A visualization of all the days** of the school year, separated into terms.
@@ -28,11 +34,7 @@ I use the Student Dashboard (Visual Countdown) as the startup webpage for comput
 1. **Important dates**, such as "Rosh Hashanah" or "Last Day of School".
 1. **Opportunities**, such as free days at local museums.
 
-## Inspiration
-
-Although our school publishes important dates on a public Google Calendar, students do not typically use Google Calendar. Instead, they ask me for information like I am Siri. _I created this dashboard to foster student independence and reduce my own cognitive load._
-
-## Why it's so awesome
+## Why it's awesome
 
 ### Easy for staff to contribute
 
