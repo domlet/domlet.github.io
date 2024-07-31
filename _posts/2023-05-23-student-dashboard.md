@@ -61,3 +61,7 @@ This [Student Dashboard (Visual Countdown)](https://domlet.github.io/dashboard) 
 - JavaScript, jQuery, date-fns
 - Bootstrap
 - Google Calendar API
+- Google Translate
+- Google Slides
+- Bitly link shortener (QR code)
+- ChatGPT (for help)
