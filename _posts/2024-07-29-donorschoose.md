@@ -5,6 +5,7 @@ categories: [projects]
 tags: [solving everyday problems, accessibility, teaching]
 description: Creating a creative workspace for students.
 toc: true
+pin: true
 image:
   path: assets/img/th-domlet-donorschoose-1200x630.jpg
   alt: DonorsChoose is an online platform makes it easy for anyone to give directly to a classroom in need.

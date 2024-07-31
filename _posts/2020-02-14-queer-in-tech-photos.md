@@ -5,6 +5,7 @@ categories: [projects]
 tags: [Dom Brassey, queer, greatest hits, solving everyday problems]
 description: I produced this collection of stock photos.
 toc: true
+pin: true
 image:
   path: assets/img/th-domlet-queer-in-tech-1200x630.jpg
   alt: Photos CC BY 3.0 US Mapbox Uncharted ERG
