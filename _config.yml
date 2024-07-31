@@ -1,3 +1,6 @@
+# note to selt, how start the server:
+# `bundle exec jekyll serve --livereload`
+
 # The Site Configuration
 
 # Import the theme

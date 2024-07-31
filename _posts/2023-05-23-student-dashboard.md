@@ -19,12 +19,12 @@ image:
 
 - See the [live dashboard here](https://domlet.github.io/dashboard).
 
-This **Student Dashboard (Visual Countdown)** webpage is the startup page for computers in my classroom. It features the information I find students need most:
+I use the Student Dashboard (Visual Countdown) as the startup webpage for computers in my classroom. It features the information that students most need:
 
 1. **The current date**, and day of the week.
-1. A **visualization of all the days** of the school year, separated into terms.
+1. **A visualization of all the days** of the school year, separated into terms.
 1. **Student holidays**, such as teacher inservice days.
-1. **Student activities**, such as Picture Day or Basketball games.
+1. **Student activities**, such as Picture Day or basketball games.
 1. **Important dates**, such as "Rosh Hashanah" or "Last Day of School".
 1. **Opportunities**, such as free days at local museums.
 
@@ -37,7 +37,7 @@ Although our school publishes important dates on a public Google Calendar, stude
 ### Easy for staff to contribute
 
 1. Retrieves events from multiple public Google Calendars and/or JSON.
-1. Links to [specific Google slides](https://docs.google.com/presentation/d/1jQ6qlNSJM9i2jlJJRc05hry9tZMJAFGvAmr6fWsw_uk/present?slide=id.g25e677a6508_0_63) (in a deck editable by teachers).
+1. Links to specific [Google slides](https://docs.google.com/presentation/d/1eIM1MJ_RYcnnu3raLXbotrhBV8nf2V1CfcmObazjeQs/edit#slide=id.g276f26a1cdb_0_0) (in a deck editable by teachers).
 
 ### Easy for students to use
 
@@ -47,6 +47,7 @@ Although our school publishes important dates on a public Google Calendar, stude
 1. Responsive design supports web or mobile clients.
 1. Includes a link library for online student resources.
 1. Built-in Google Translate widget for immediate translation.
+1. Built in Google Calendar (combined display) for additional info.
 
 ### Easy for lab manager
 
