@@ -14,6 +14,7 @@ tags:
     Mapbox GL JS,
     web-based application,
     teaching,
+    spatial data,
   ]
 description: How can we help students visualize college?
 toc: true

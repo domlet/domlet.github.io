@@ -14,6 +14,7 @@ tags:
     virtual environment,
     historiography,
     Black Lives Matter,
+    spatial data,
   ]
 description: Google Maps is easier than what I did.
 toc: true
@@ -47,6 +48,8 @@ When I successfully "put dots on a map", I wrote this documentation so that I co
 ## Make your own map
 
 Stop reading and just [drag a CSV file](https://support.google.com/mymaps/answer/3024836?hl=en&co=GENIE.Platform%3DDesktop) into a [Google Map](https://www.google.com/maps/d/u/0/edit?hl=en&mid=1E3UfCrVMMQ62ZC1bzePvQjvkLSGfv24&ll=37.86536700757127%2C-122.24243003173828&z=12) to "put dots on a map" instantly. (Scroll down to **Get latitude and longitude coordinates** if you need to prepare the data for your list of locations.)
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/7gBaoCrY0Mg?si=rcqaKTIOPri_aQvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### "Put dots on a map" Python with Leaflet
 

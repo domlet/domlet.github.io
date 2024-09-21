@@ -11,6 +11,7 @@ tags:
     JavaScript,
     Mapbox GL JS,
     web-based application,
+    spatial data,
   ]
 description: A brief story map about Dom Brassey's life.
 toc: true
