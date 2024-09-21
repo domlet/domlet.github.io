@@ -17,6 +17,7 @@ image:
 
 ## We did it!
 
+1. [Micro-Kitchen Enablement for Engineering Students](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-09-project-teacher_8637964&challengeid=22010160) - Jun 19, 2024
 1. [Pair-Programming is Powerful](https://www.donorschoose.org/project/pair-programming-is-powerful/8225041/) - May 6, 2024
 1. [Charged Batteries and Organized Tools](https://www.donorschoose.org/project/charged-batteries-and-organized-tools/8210667/) - Feb 20, 2024
 1. [DIY Enablement for Robotics/Electronic Music Classroom](https://www.donorschoose.org/project/diy-enablement-for-roboticselectronic-m/7930042/) - Feb 7, 2024
