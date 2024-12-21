@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Desktop View](/assets/img/th-domlet-1200.jpg)
+![Photo of Dom Brassey jumping up in the air.](/assets/img/th-domlet-1200.jpg)
 
 Hi! 👋🏼 I'm **Dom Brassey** (she/they). I'm a [Career and Technical Education (CTE)](https://www.cde.ca.gov/ci/ct/sf/ctemcstandards.asp) credentialed [teacher](/posts/donorschoose/) at Coliseum College Prep Academy (CCPA), a public, non-charter middle/high school in Oakland Unified School District (OUSD) in California's San Francisco Bay Area. I also teach part-time in the Multi-Media Arts (MMART) department at Berkeley City College (BCC).
 
