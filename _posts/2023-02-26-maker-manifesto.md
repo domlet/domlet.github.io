@@ -1,8 +1,8 @@
 ---
-title: "Maker Educator Manifesto"
+title: "Maker Educator: Manifesto"
 date: 2023-02-26T00:00:20+0000
 categories: [makerspace]
-tags: [teaching, makerspace, maker education, Sonoma State University, pedagogy]
+tags: [teaching, makerspace, maker educator, Sonoma State University, pedagogy]
 description: Making is a dialogue with the world
 toc: true
 pin: false
@@ -21,7 +21,7 @@ As a maker educator, I do my job well when I **present exciting challenges with 
 
 In making, we discover what we want from the world, and we acquire the skills to create it. In doing so, we grow more skillful, more curious, more confident, and more adaptable. By growing makers in our classrooms, we challenge the patience with which we tolerate the unsolved problems in our world.
 
-[![Photo Album for SSU Maker Educator Certificate on Flickr](/assets/img/domlet-ssu-maker-certificate-collage.jpg)](https://www.flickr.com/photos/dombrassey/albums/72177720322581085)
+[![Photo Album for SSU Maker Educator Certificate on Flickr](/assets/img/maker-educator/domlet-ssu-maker-certificate-collage.jpg)](https://www.flickr.com/photos/dombrassey/albums/72177720322581085)
 
 # Personal Maker Philosophy
 
