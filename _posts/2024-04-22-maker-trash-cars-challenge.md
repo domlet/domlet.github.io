@@ -33,6 +33,14 @@ From my experience coaching high school robotics, I know that kids love motors a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qymG8w4ZIpE?si=P4Ed8t_NNLqAosdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Slides
+
+<iframe class="slides-container" src="https://docs.google.com/presentation/d/e/2PACX-1vS_hL-kCe8fPcUavT4uOJ_66ABSMdzrhBXWOG3hmqlhmh0jR23fLfz7i7EQ6I7XVremdMINasfmAg9x/embed?start=false&loop=false" frameborder="0" width="100%" height="390" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Playlist
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0O7fiWVeQbD39pwHo9jUbn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### Materials
 
 _To serve 120 students working in pairs for 3 hours, we used..._
@@ -49,20 +57,16 @@ _To serve 120 students working in pairs for 3 hours, we used..._
 - power drills, drill press
 - wire strippers, electrical tape
 
-### Slides
-
-<iframe class="slides-container" src="https://docs.google.com/presentation/d/e/2PACX-1vS_hL-kCe8fPcUavT4uOJ_66ABSMdzrhBXWOG3hmqlhmh0jR23fLfz7i7EQ6I7XVremdMINasfmAg9x/embed?start=false&loop=false" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ### Outcomes
 
 _What worked well?_
 
-- begin with scavenger hunt to welcome studenrs into an unfamiliar classroom
+- [paper workbook with scavenger hunt and QR codes](https://docs.google.com/document/d/1csG47c-raoFEUnA-ecDjaA1V2DobzVfk1BjmaQ0t1dY/edit?tab=t.0)
+- begin with scavenger hunt to welcome students into an unfamiliar classroom
 - power outlets and glue guns were on the scavenger hunt (so students knew they were )
 - one adult at drill station making sure students wear safety goggles
 - leave same bit on the drill press (no swapping during worktime)
 - students were very engaged
-- [paper workbook with schematics and QR codes](https://docs.google.com/document/d/1csG47c-raoFEUnA-ecDjaA1V2DobzVfk1BjmaQ0t1dY/edit?tab=t.0)
 
 _What could work better?_
 
