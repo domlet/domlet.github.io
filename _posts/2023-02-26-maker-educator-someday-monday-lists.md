@@ -1,5 +1,5 @@
 ---
-title: "Maker Educator: Someday/Monday Lists"
+title: "Maker Educator: Someday/Monday"
 date: 2024-12-20T00:00:20+0000
 categories: [makerspace]
 tags: [teaching, makerspace, maker educator, Sonoma State University, lists]

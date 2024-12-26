@@ -19,13 +19,6 @@ pin: true
 image:
   path: /assets/img/th-domlet-trash-cars-SP24-banner.JPG
   alt: 3-hour maker challenge...it goes fast!
-carousels:
-  - images: 
-    - image: https://domlet.github.io/assets/img/maker-educator/trash-cars-SP24-IMG_0945.JPG
-	  - image: https://domlet.github.io/assets/img/maker-educator/trash-cars-SP24-IMG_2933.JPG
-	  - image: https://domlet.github.io/assets/img/maker-educator/trash-cars-SP24-IMG_2934.JPG
-	  - image: https://domlet.github.io/assets/img/maker-educator/trash-cars-SP24-IMG_2935.JPG
-	  - image: https://domlet.github.io/assets/img/maker-educator/trash-cars-SP24-IMG_2936.JPG
 
 ---
 
@@ -66,8 +59,6 @@ _To serve 120 students working in pairs for 3 hours, we used..._
 - wire strippers, electrical tape
 
 ### Outcomes
-
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 _What worked well?_
 
