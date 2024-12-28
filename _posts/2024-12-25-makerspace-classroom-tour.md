@@ -4,8 +4,8 @@ date: 2024-12-25T00:00:20+0000
 categories: [makerspace]
 tags:
   [
-    teaching,
-    makerspace,
+    teaching, Oakland, Oakland Unified School District, Coliseum College Prep Academy, CCPA,
+    makerspace,solving everyday problems,
 maker educator,    Sonoma State University, usability, accessibility, design
   ]
 description: Designing a classroom / hackerspace for high school makers.
