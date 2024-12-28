@@ -33,7 +33,7 @@ In the robotics area, students use a great number of tools and materials that mu
 
 ["Programmable Succulent Garden w/Moisture Sensors"](https://docs.google.com/document/d/1s1dZvnDK8diLR5ri1aDfE1h_smqfcFox2VEQXFZTv0k/edit?tab=t.0) is a physical computing project that literally brings computer science "to life" by having students (in pairs) program individual soil sensors to detect and log soil moisture levels for individual plants – and then program an alert or action to occur when moisture reaches a specified threshold. Students will learn how the Internet of Things (IoT) enables a programmable home or workplace, with applications in landscaping, agricultural technology, robotics, or Smart Home design.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322817361" title="CCPA Hackerspace Garden"><img src="https://live.staticflickr.com/65535/54231314080_c40dc7c558.jpg" width="500" height="375" alt="CCPA Hackerspace Garden"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322817361" title="CCPA Hackerspace Garden"><img src="https://live.staticflickr.com/65535/54230910376_b4b09b8040.jpg" width="500" height="375" alt="CCPA Hackerspace Garden"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Electronic Instruments
 

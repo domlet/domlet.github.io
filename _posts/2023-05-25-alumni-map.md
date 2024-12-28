@@ -18,7 +18,7 @@ tags:
   ]
 description: How can we help students visualize college?
 toc: true
-pin: true
+pin: false
 image:
   path: assets/img/th-domlet-alumni-map-1200x630.jpg
   alt: What colleges and universities have CCPA graduates chosen to attend? Explore the map to learn.

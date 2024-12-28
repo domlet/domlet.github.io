@@ -9,7 +9,7 @@ JavaScript, web-based application, data visualization, solving everyday problems
   ]
 description: Visual countdown of the school year.
 toc: true
-pin: true
+pin: false
 image:
   path: /assets/img/th-domlet-student-dashboard-1200x630.jpg
   alt: Srudents can easily see how close we are to the end of a term, or the next holiday!
