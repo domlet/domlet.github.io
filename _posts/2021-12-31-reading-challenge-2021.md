@@ -6,7 +6,7 @@ tags: [books]
 description: Top picks from all the books I read this year.
 toc: true
 image:
-  path: assets/img/th-reading-challenge-2021.JPG
+  path: assets/img/th-domlet-reading-challenge-2021.JPG
   alt: Click to see more books from this year's reading challenge.
 ---
 
@@ -22,7 +22,7 @@ image:
 
 ## All books
 
-Here's [the full list on Goodreads](https://www.goodreads.com/user_challenges/30766708).
+Here's [the full list on Goodreads](https://www.goodreads.com/review/list/25373-dom?order=d&per_page=infinite&shelf=reading-challenge-2021&utf8=%E2%9C%93&view=covers).
 
 1. _Acres of Skin: Human Experiments at Holmesburg Prison_ (Hornblum, Allen M.)
 1. _Dreams from My Father: A Story of Race and Inheritance_ (Obama, Barack)

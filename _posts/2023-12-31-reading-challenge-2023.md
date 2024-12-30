@@ -6,7 +6,7 @@ tags: [books]
 description: Top picks from all the books I read this year.
 toc: true
 image:
-  path: assets/img/th-reading-challenge-2023.JPG
+  path: assets/img/th-domlet-reading-challenge-2023.JPG
   alt: Click to see more books from this year's reading challenge.
 ---
 
@@ -18,7 +18,7 @@ image:
 
 ## All books
 
-Here's [the full list on Goodreads](https://www.goodreads.com/user_challenges/39625367).
+Here's [the full list on Goodreads](https://www.goodreads.com/review/list/25373-dom?per_page=infinite&shelf=reading-challenge-2023&utf8=%E2%9C%93&view=covers).
 
 1. _The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers: Straight Talk on the Challenges of Entrepreneurship_ (Horowitz, Ben)
 1. _Black Elk: The Life of an American Visionary_ (Jackson, Joe)

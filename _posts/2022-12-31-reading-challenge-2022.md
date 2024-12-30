@@ -6,7 +6,7 @@ tags: [books]
 description: Top picks from all the books I read this year.
 toc: true
 image:
-  path: assets/img/th-reading-challenge-2022.JPG
+  path: assets/img/th-domlet-reading-challenge-2022.JPG
   alt: Click to see more books from this year's reading challenge.
 ---
 
@@ -19,7 +19,7 @@ image:
 
 ## All books
 
-Here's [the full list on Goodreads](https://www.goodreads.com/user_challenges/32837438).
+Here's [the full list on Goodreads](https://www.goodreads.com/review/list/25373-dom?per_page=infinite&shelf=reading-challenge-2022&utf8=%E2%9C%93&view=table).
 
 1. _Orwell's Roses_ (Solnit, Rebecca)
 1. _Sister Outsider: Essays and Speeches_ (Lorde, Audre)
