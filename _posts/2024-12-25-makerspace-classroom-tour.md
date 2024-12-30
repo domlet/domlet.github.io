@@ -31,21 +31,30 @@ In computer science classrooms, we often design spaces and activities that prior
 - Modular furniture (for more flexibile seating)
 - Standing spaces (for more movement between groups)
 
-### Dark Mode Reduces Anxiety
+### Fab Lab (3D Printers)
 
-Like many programmers, I learned to program in the dark. [Dark Mode](https://www.donorschoose.org/project/unlock-dark-mode-for-hs-computer-scien/6868466/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) can reduce distractions and deepen focus for people with visual sensitivities or attention issues. It can also reduce eye strain.
+Our [green screen wall](https://www.flickr.com/photos/dombrassey/54236149861/in/album-72177720322882484) was less useful than expected, so this corner features two Prusa MK4 3D printers – a gift from Mark Rober at [Crunch Labs](https://www.crunchlabs.com/?srsltid=AfmBOoqnyKDnYKV7iJOQ3-LBnI3liLbcYjyO0B_dbOTTyIGMSddNKUoB).
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322882484" title="CCPA Fabrication Laboratory &quot;Fab Lab&quot;"><img src="https://live.staticflickr.com/65535/54236382638_7a49847ccc.jpg" width="500" height="375" alt="CCPA Fabrication Laboratory &quot;Fab Lab&quot;"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Students learn about file formats and intellectual property rights for 3D models, types of plastic filament, print settings (ie, skirt, brim, nozzle and bed temperature, fill patterns) and troubleshooting. Students follow
+each-one-teach-one practices to learn from one another, and use the printers mainly during Robotics and Hack Club time.
+
+### Dark Mode Deepens Focus
+
+Like many programmers, I learned to program in the dark, during the still, uninterrupted hours of the night. In our computer science classroom, [Dark Mode](https://www.donorschoose.org/project/unlock-dark-mode-for-hs-computer-scien/6868466/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is designed to offer a similar setting, with reduced distractions for those with visual sensitivities or attention issues. [Dark mode isn't perfect](https://www.fastcompany.com/90421232/dark-mode-is-everywhere-but-is-it-really-better), but many students say they prefer it because "It doesn't feel like a classroom."
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322816217" title="Makerspace Kitchen"><img src="https://live.staticflickr.com/65535/54231262700_3ccb39c2a2.jpg" width="500"  alt="Makerspace Kitchen"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Students understand that dark mode can be enabled once ALL STUDENTS are logged into Google Classroom or have an assignment open – so they encourage each other to get started promptly.
-
-https://www.fastcompany.com/90421232/dark-mode-is-everywhere-but-is-it-really-better
+Beneficially for me as an instructor, students understand that dark mode can be enabled **when all students are logged into Google Classroom** or have an assignment open – so they encourage each other to get started promptly. Dark mode also makes it easier for me to focus my eyes on student laptop screens as I circulate around the classroom to check in on students.
 
 ### Mechatronics: Mechanical × Electronics
 
-In the robotics area, students use a great number of tools and materials that must be kept organized and accessible. Mechanical and software engineers must communicate with each other.
+At CCPA, the High School Robotics Team competes in the [FIRST Tech Challenge (FTC)](https://www.firstinspires.org/robotics/ftc) in the fall, and the [Pioneers in Engineering (PiE)](https://pioneers.berkeley.edu/) competition at UC Berkeley in the Spring. In the Robotics workspace, students use a great number of [tools and materials](https://www.revrobotics.com/rev-45-3529/) that must be kept organized and accessible. Only power tools and sharp tools are kept in the teacher's office or desk drawers. Students [pack their own supplies](https://docs.google.com/spreadsheets/d/1LVZiLo4UDEgqsqjm0FnSoMNz828F7kkTg-nQiuiSlU4/edit?gid=1899335204#gid=1899335204) before off-campus scrimmages, tournaments, or build days.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322836769" title="CCPA Robotics Lab"><img src="https://live.staticflickr.com/31337/54231307690_28f8e64dbd.jpg" width="500" height="375" alt="CCPA Robotics Lab"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Mechanical engineers and software engineers must also coordinate and communicate with each other as they build, so the workspace is designed with a [hardware side](https://www.flickr.com/photos/dombrassey/54231134918/in/album-72177720322836769) (adjacent to the tools cabinet), and a [software side](https://www.flickr.com/photos/dombrassey/54229995877/in/album-72177720322836769), where programmers can see and speak to mechanical engineers right over the top edge of the displays at the programmig station. We rarely assemble the [game field](https://www.flickr.com/photos/dombrassey/54231307690/in/album-72177720322836769) because our furniture is not sufficiently modular to get out of the way.
 
 ### Programmable IoT Garden
 
@@ -68,8 +77,7 @@ Students will learn how the Internet of Things (IoT) enables a programmable home
 
 ### Classroom Kitchenette
 
-Our [classroom kitchenette](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is meant to emulate those break areas.
-Computer science students at CCPA have seen [micro-kitchens](https://interiorarchitects.com/seven-corporate-and-cool-micro-kitchens/) during field trips to tech offices like Google or The Hidden Genius Project.
+Computer science students at CCPA have seen [micro-kitchens](https://interiorarchitects.com/seven-corporate-and-cool-micro-kitchens/) during field trips to tech offices like Google or The Hidden Genius Project. Our [classroom kitchenette](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is meant to emulate those break areas.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322798931" title="Makerspace Kitchen"><img src="https://live.staticflickr.com/65535/54229075300_b5fe291143.jpg" width="500" height="375" alt="Makerspace Kitchen"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
