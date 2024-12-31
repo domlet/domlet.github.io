@@ -8,7 +8,7 @@ tags:
     makerspace,solving everyday problems,
 maker educator,    Sonoma State University, usability, accessibility, design
   ]
-description: Designing a classroom / hackerspace for high school makers.
+description: Building a classroom / hackerspace for high school makers.
 toc: true
 pin: true
 image:
@@ -16,6 +16,8 @@ image:
   alt: Classroom snapshot at the start of Fall 2024. Seats 34 students.
 
 ---
+
+For each slideshow below, click the `‹` and `›` arrows to see more photos. You can also [explore a 3D model of the classroom](https://domlet.github.io/3d/) from [this post](/posts/3d-models).
 
 ### Programming is Social
 
@@ -33,12 +35,11 @@ In computer science classrooms, we often design spaces and activities that prior
 
 ### Fab Lab (3D Printers)
 
-Our [green screen wall](https://www.flickr.com/photos/dombrassey/54236149861/in/album-72177720322882484) was less useful than expected, so this corner features two Prusa MK4 3D printers – a gift from Mark Rober at [Crunch Labs](https://www.crunchlabs.com/?srsltid=AfmBOoqnyKDnYKV7iJOQ3-LBnI3liLbcYjyO0B_dbOTTyIGMSddNKUoB).
+Our [green screen wall](https://www.flickr.com/photos/dombrassey/54236149861/in/album-72177720322882484) was less useful than expected, so this classroom corner now features two Prusa MK4 3D printers – a gift from Mark Rober at [Crunch Labs](https://www.crunchlabs.com/?srsltid=AfmBOoqnyKDnYKV7iJOQ3-LBnI3liLbcYjyO0B_dbOTTyIGMSddNKUoB). Students use these most often during Robotics and Hack Club time after school, using the **each-one-teach-one instructional model**. Filament is free for students to use, secured with a combination lock with an accessible combo.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322882484" title="CCPA Fabrication Laboratory &quot;Fab Lab&quot;"><img src="https://live.staticflickr.com/65535/54236382638_7a49847ccc.jpg" width="500" height="375" alt="CCPA Fabrication Laboratory &quot;Fab Lab&quot;"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Students learn about file formats and intellectual property rights for 3D models, types of plastic filament, print settings (ie, skirt, brim, nozzle and bed temperature, fill patterns) and troubleshooting. Students follow
-each-one-teach-one practices to learn from one another, and use the printers mainly during Robotics and Hack Club time.
+In learning to print, students learn about 3D file formats and intellectual property rights, properties of different plastic filament types, print settings (ie, skirt, brim, nozzle and bed temperature, fill patterns...) and practice obervation, communication, and troubleshooting skills.
 
 ### Dark Mode Deepens Focus
 
@@ -46,11 +47,11 @@ Like many programmers, I learned to program in the dark, during the still, unint
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322816217" title="Makerspace Kitchen"><img src="https://live.staticflickr.com/65535/54231262700_3ccb39c2a2.jpg" width="500"  alt="Makerspace Kitchen"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Beneficially for me as an instructor, students understand that dark mode can be enabled **when all students are logged into Google Classroom** or have an assignment open – so they encourage each other to get started promptly. Dark mode also makes it easier for me to focus my eyes on student laptop screens as I circulate around the classroom to check in on students.
+Students understand that dark mode can be enabled **when all students are logged into Google Classroom** or have an assignment open – so they encourage each other to get started promptly. Dark mode also **makes it easier for me to focus my eyes** on student laptop screens as I circulate around the classroom to check on students and talk to them about their work.
 
 ### Mechatronics: Mechanical × Electronics
 
-At CCPA, the High School Robotics Team competes in the [FIRST Tech Challenge (FTC)](https://www.firstinspires.org/robotics/ftc) in the fall, and the [Pioneers in Engineering (PiE)](https://pioneers.berkeley.edu/) competition at UC Berkeley in the Spring. In the Robotics workspace, students use a great number of [tools and materials](https://www.revrobotics.com/rev-45-3529/) that must be kept organized and accessible. Only power tools and sharp tools are kept in the teacher's office or desk drawers. Students [pack their own supplies](https://docs.google.com/spreadsheets/d/1LVZiLo4UDEgqsqjm0FnSoMNz828F7kkTg-nQiuiSlU4/edit?gid=1899335204#gid=1899335204) before off-campus scrimmages, tournaments, or build days.
+Our CCPA High School Robotics Team competes in the [FIRST Tech Challenge (FTC)](https://www.firstinspires.org/robotics/ftc) in the fall, and the [Pioneers in Engineering (PiE)](https://pioneers.berkeley.edu/) competition at UC Berkeley in the Spring. In the Robotics workspace, students use a great number of [tools and materials](https://www.revrobotics.com/rev-45-3529/) that must be kept organized and accessible. Only power tools and sharp tools are kept in the teacher's office or desk drawers. [Students pack their own supplies](https://docs.google.com/spreadsheets/d/1LVZiLo4UDEgqsqjm0FnSoMNz828F7kkTg-nQiuiSlU4/edit?gid=1899335204#gid=1899335204) before off-campus scrimmages, tournaments, or build days.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322836769" title="CCPA Robotics Lab"><img src="https://live.staticflickr.com/31337/54231307690_28f8e64dbd.jpg" width="500" height="375" alt="CCPA Robotics Lab"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -58,27 +59,24 @@ Mechanical engineers and software engineers must also coordinate and communicate
 
 ### Programmable IoT Garden
 
-["Programmable Succulent Garden w/Moisture Sensors"](https://docs.google.com/document/d/1s1dZvnDK8diLR5ri1aDfE1h_smqfcFox2VEQXFZTv0k/edit?tab=t.0) is a physical computing project that literally brings computer science "to life" by having students (in pairs) program individual soil sensors to detect and log soil moisture levels for individual plants – and then program an alert or action to occur when moisture reaches a specified threshold.
+Our [Programmable IoT Garden](https://docs.google.com/document/d/1s1dZvnDK8diLR5ri1aDfE1h_smqfcFox2VEQXFZTv0k/edit?tab=t.0) is a physical computing project that literally brings computer science "to life" by having students (in pairs) program individual micro:bits to log soil sensor data and monitor moisture levels for individual plants – and then program an alert or action to occur when moisture reaches a specified threshold.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322817361" title="CCPA Hackerspace Garden"><img src="https://live.staticflickr.com/65535/54230910376_b4b09b8040.jpg" width="500" height="375" alt="CCPA Hackerspace Garden"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Students will learn how the Internet of Things (IoT) enables a programmable home or workplace, with applications in landscaping, agricultural technology, robotics, or Smart Home design.
+Students learn how the Internet of Things (IoT) enables a programmable home or workplace, with physical computing applications in landscaping, agricultural technology, robotics, or Smart Home design. Students may program triggered actions such as sending a "water me" text message to their phone, or playing a short sound on the classroom Echo device. We began on Dec 20, 2024, so **we have not been Rick-Rolled yet...but we will be**. Our garden includes 36 plants, each with a micro:bit in communication with a Bluetooth/WiFi-emabled Raspberry Pi.
 
 ### Electronic Instruments
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YvdbYAkmbP4?si=3l0BqSh6P7B3uudU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+When I brought my classroom guitar to [Oakland Guitars](https://www.oakland-guitars.com/) for repair, they donated a second acoustic-electric guitar! Now we 3D print our own picks and pick holders, and students use both guitars outside of instructional time. The most accessible instrument in the classroom is the [Zoom V3 Vocal Processor](https://zoomcorp.com/es/es/procesador-de-voces/vocal/v3/) which is connected to a mic and stand near the classroom entrance. There is no better illustration for CSP (computer science principles) learning to differentiate between **input, output, and processing**.
 
-- [Zoom V3 Vocal Processor](https://zoomcorp.com/es/es/procesador-de-voces/vocal/v3/) w/Shure mic
-- [Novation Launchpad MK2](https://www.youtube.com/watch?v=e5VmOD1Sn04&ab_channel=v1battle)
-- [Yamaha DD75AD Portable Digital Drums](https://www.youtube.com/watch?v=fpEqTlQ5zXA&t=92s&ab_channel=PMTVUK) locked up (because the demo is insufferable)
-- Acoustic/Electric Guitar #1 (most popular)
-- Acoustic/Electric Guitar #2
-- Electric Bass w/Bass Amp
+<iframe width ="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkzlDz5DyET7gCbix0JYkMOGqFQSNy0Nc&si=HYbFkVChqtWib-Oo&rel=0&loop=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-inpicture" allowfullscreen></iframe>
+
+We have a set of [Yamaha DD75AD Portable Digital Drums](https://www.youtube.com/watch?v=fpEqTlQ5zXA&t=92s&ab_channel=PMTVUK) but I would not recommend this for a classroom because the demo is insufferable. I'm tempted to solder headphones into the audio output jack permamently. 11th grade students in my first ever Digital Arts class this year learned to use a DAW for basic digital audio production, but I hope to include beatmaking, drum notation, and fill patterns more capably in the future.
 
 ### Classroom Kitchenette
 
-Computer science students at CCPA have seen [micro-kitchens](https://interiorarchitects.com/seven-corporate-and-cool-micro-kitchens/) during field trips to tech offices like Google or The Hidden Genius Project. Our [classroom kitchenette](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is meant to emulate those break areas.
+Computer science students at CCPA have seen [micro-kitchens](https://interiorarchitects.com/seven-corporate-and-cool-micro-kitchens/) during field trips to tech offices like Google or The Hidden Genius Project. Our [classroom kitchenette](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is meant to emulate those break spaces and foster students' self-sufficiency around cooking, self-care, and cleaning up.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322798931" title="Makerspace Kitchen"><img src="https://live.staticflickr.com/65535/54229075300_b5fe291143.jpg" width="500" height="375" alt="Makerspace Kitchen"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-In addition, the kitchen fosters students' self-sufficiency around cleanup and cooking, reduces teacher labor for lesson plans involving food or liquid, and validates students with aspirations or interests related to cooking, food systems, or agricultural technology like hydroponics.
+The classroom kitchenette also reduces teacher labor for lessons involving food or liquid, and validates students with aspirations or interests related to **cooking, food systems, or building trades like plumbing**. In Fall 2024, we installed an under-the-sink water filter to protect all users from lead and other toxins.
