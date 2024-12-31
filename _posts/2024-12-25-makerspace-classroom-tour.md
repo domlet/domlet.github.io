@@ -35,7 +35,7 @@ In computer science classrooms, we often design spaces and activities that prior
 
 ### Fab Lab (3D Printers)
 
-Our [green screen wall](https://www.flickr.com/photos/dombrassey/54236149861/in/album-72177720322882484) was less useful than expected, so this classroom corner now features two Prusa MK4 3D printers – a gift from Mark Rober at [Crunch Labs](https://www.crunchlabs.com/?srsltid=AfmBOoqnyKDnYKV7iJOQ3-LBnI3liLbcYjyO0B_dbOTTyIGMSddNKUoB). Students use these most often during Robotics and Hack Club time after school, using the **each-one-teach-one instructional model**. Filament is free for students to use, secured with a combination lock with an accessible combo.
+Our [green screen wall](https://www.flickr.com/photos/dombrassey/54236149861/in/album-72177720322882484) was less useful than expected, so this classroom corner now features two Prusa MK4 3D printers – a gift from Mark Rober at [Crunch Labs](https://www.crunchlabs.com/?srsltid=AfmBOoqnyKDnYKV7iJOQ3-LBnI3liLbcYjyO0B_dbOTTyIGMSddNKUoB) with an old Mac now running Ubuntu. Students use these most often during Robotics and Hack Club time after school, using the **each-one-teach-one instructional model**. Filament is free for students to use, secured with a combination lock with an accessible combo.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322882484" title="CCPA Fabrication Laboratory &quot;Fab Lab&quot;"><img src="https://live.staticflickr.com/65535/54236382638_7a49847ccc.jpg" width="500" height="375" alt="CCPA Fabrication Laboratory &quot;Fab Lab&quot;"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 

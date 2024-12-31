@@ -1,5 +1,5 @@
 ---
-title: "Maker Educator: Motorized Trash Cars"
+title: "Artifact: DIY Motorized Trash Cars"
 date: 2024-04-22T00:00:20+0000
 categories: [makerspace]
 tags:
