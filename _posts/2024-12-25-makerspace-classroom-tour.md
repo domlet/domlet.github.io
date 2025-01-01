@@ -27,11 +27,7 @@ But with teens in particular, when learning is social it can also energize parti
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322859102" title="CCPA Social Computing"><img src="https://live.staticflickr.com/65535/54236335120_69f82cd7f3.jpg" width="500" height="375" alt="CCPA Social Computing"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-In computer science classrooms, we often design spaces and activities that prioritize the development of **deep focus and organized, methodical thinking**. Those practices are crucial for learning how to program computers. But, if we want to offer diverse students the opportunity to love engineering and innovation, we must also create **spaces that stimulate creativity, tolerate mayhem, and facilitate teamwork**. In my classroom, that means:
-
-- Larger screens/displays (for more eyeballs)
-- Modular furniture (for more flexibile seating)
-- Standing spaces (for more movement between groups)
+In computer science classrooms, we spaces and activities primarily prioritize the development of **deep focus and organized, methodical thinking**. Those practices are crucial for learning how to program computers. But we should also offer students experiences that **stimulate their creativity, activate unexpected neural connections, and facilitate teamwork**. In my classroom, that means including spaces with larger screens (for more eyeballs), modular furniture (to acommodate more body types), and more standing workspaces (for more movement _between_ groups).
 
 ### Fab Lab (3D Printers)
 
@@ -75,7 +71,7 @@ We have a set of [Yamaha DD75AD Portable Digital Drums](https://www.youtube.com/
 
 ### Classroom Kitchenette
 
-Computer science students at CCPA have seen [micro-kitchens](https://interiorarchitects.com/seven-corporate-and-cool-micro-kitchens/) during field trips to tech offices like Google or The Hidden Genius Project. Our [classroom kitchenette](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is meant to emulate those break spaces and foster students' self-sufficiency around cooking, self-care, and cleaning up.
+Computer science students at CCPA have seen [micro-kitchens](https://interiorarchitects.com/seven-corporate-and-cool-micro-kitchens/) during field trips to tech offices like Google or [The Hidden Genius Project](https://www.hiddengeniusproject.org)'s [Ubuntu Center](https://www.flickr.com/photos/dombrassey/albums/72177720322915894/). Our [classroom kitchenette](https://www.donorschoose.org/project/micro-kitchen-enablement-for-engineering/8451330/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2024-12-project-teacher_8637964&challengeid=22010160) is meant to emulate those break spaces and foster students' self-sufficiency around cooking, self-care, and cleaning up.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322798931" title="Makerspace Kitchen"><img src="https://live.staticflickr.com/65535/54229075300_b5fe291143.jpg" width="500" height="375" alt="Makerspace Kitchen"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
