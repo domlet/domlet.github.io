@@ -10,7 +10,7 @@ maker educator,    Sonoma State University,
     project,
     reuse,
     upcycling,
-    greatest hits
+    greatest hits,
     lesson plan
   ]
 description: Make something out of nothing.
