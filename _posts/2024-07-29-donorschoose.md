@@ -17,6 +17,8 @@ image:
 
 ## We did it!
 
+1. [Prototyping Materials for High School Game Design Class
+   ](https://www.donorschoose.org/project/prototyping-materials-for-high-school-ga/9000627/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2025-01-project-teacher_8637964&challengeid=22010160) - Dec 28, 2024
 1. [Whiteboard Wallpaper for Students Practicing Algorithms](https://www.donorschoose.org/project/whiteboard-wallpaper-for-students-practi/8810398/?rf=link-dc-2024-12-teacher_profile-teacher_8637964&challengeid=22010160&utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964) - Dec 2, 2024
 1. [Color Photos for Mental Health Community Service Campaign](https://www.donorschoose.org/project/color-photos-for-mental-health-community/8861277/?rf=link-dc-2024-12-teacher_profile-teacher_8637964&challengeid=22010160&utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964) - Oct 25, 2024
 1. [Money That Folds For Financial Literacy](https://www.donorschoose.org/project/money-that-folds-for-financial-literacy/8780906/?rf=link-dc-2024-12-teacher_profile-teacher_8637964&challengeid=22010160&utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964) - Oct 7, 2024

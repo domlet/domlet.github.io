@@ -6,7 +6,7 @@ tags:
   [
     teaching, Oakland, Oakland Unified School District, Coliseum College Prep Academy, CCPA,
     makerspace,solving everyday problems,
-maker educator,    Sonoma State University, usability, accessibility, design
+maker educator,    Sonoma State University, design, greatest hits
   ]
 description: Building a classroom / hackerspace for high school makers.
 toc: true
@@ -52,6 +52,10 @@ Our CCPA High School Robotics Team competes in the [FIRST Tech Challenge (FTC)](
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322836769" title="CCPA Robotics Lab"><img src="https://live.staticflickr.com/31337/54231307690_28f8e64dbd.jpg" width="500" height="375" alt="CCPA Robotics Lab"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Mechanical engineers and software engineers must also coordinate and communicate with each other as they build, so the workspace is designed with a [hardware side](https://www.flickr.com/photos/dombrassey/54231134918/in/album-72177720322836769) (adjacent to the tools cabinet), and a [software side](https://www.flickr.com/photos/dombrassey/54229995877/in/album-72177720322836769), where programmers can see and speak to mechanical engineers right over the top edge of the displays at the programmig station. We rarely assemble the [game field](https://www.flickr.com/photos/dombrassey/54231307690/in/album-72177720322836769) because our furniture is not sufficiently modular to get out of the way.
+
+Here's a short video from a robotics practice after school, featuring bonafide rock star [Arnetta Olden](https://www.youtube.com/@arnettaolden2465) hitting us with some tasty grooves on the classroom acoustic electric guitar they named _Spade_.
+
+<iframe width="333" height="592" src="https://www.youtube.com/embed/PXRbzSKPp9A?rel=0" title="makerspace domlet ccpa SY2223 029" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Programmable IoT Garden
 

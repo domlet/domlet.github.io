@@ -5,24 +5,31 @@ order: 4
 ---
 
 ![Photo of Dom Brassey jumping up in the air.](/assets/img/th-domlet-1200.jpg)
+_Students say this photo is cringe. 👍🏼_
 
-Hi! 👋🏼 I'm **Dom Brassey** (she/they). I'm a [Career and Technical Education (CTE)](https://www.cde.ca.gov/ci/ct/sf/ctemcstandards.asp) credentialed [teacher](/posts/donorschoose/) at Coliseum College Prep Academy (CCPA), a public, non-charter middle/high school in Oakland Unified School District (OUSD) in California's San Francisco Bay Area. I also teach part-time in the Multi-Media Arts (MMART) department at Berkeley City College (BCC).
+Hi! 👋🏼 I'm **Dom Brassey** (she/they). I'm a [high school teacher](/posts/donorschoose/) at Coliseum College Prep Academy (CCPA), a public, non-charter middle/high school in Oakland Unified School District (OUSD) in California's San Francisco Bay Area. I also teach part-time in the Multi-Media Arts (MMART) department at Berkeley City College (BCC).
 
-## I help students learn to...
+- I teach [AP Computer Science Principles](https://apcentral.collegeboard.org/courses/ap-computer-science-principles), Digital Arts, and Game Design.
+- I coach the robotics teams, which compete in [FIRST FTC](https://www.firstinspires.org/robotics/ftc) and [Pioneers in Engineering (PiE)](https://pioneers.berkeley.edu/).
+- I advise the student-led [Computer Science Honor Society](https://csteachers.org/cshs/).
 
-- DECOMPOSE complex problems into smaller, solvable pieces;
-- RECOGNIZE PATTERNS in emergent strategy environments;
-- COMMUNICATE to build alignment around problem statements and priorities;
-- DESIGN & DEPLOY rapid experiments and interpret data to guide development.
+_I help students learn to..._
 
-## Authorizations
+- **DECOMPOSE** complex problems into smaller, solvable pieces;
+- **RECOGNIZE PATTERNS** in emergent strategy environments;
+- **COMMUNICATE** to build alignment around problem statements and priorities;
+- **DESIGN & DEPLOY** rapid experiments and interpret data to guide development.
 
-I am authorized for the following CTE industry sectors:
+## My credential
 
-1. [Arts, Media and Entertainment (AME)](https://www.cde.ca.gov/ci/ct/sf/documents/artsmedia.pdf), which includes career pathways for _Design, Visual, and Media Arts; Performing Arts; Production and Managerial Arts; Game Design and Integration_.
-1. [Information and Communication Technologies (ICT)](https://www.cde.ca.gov/ci/ct/sf/documents/infocomtech.pdf), which includes career pathways for _Information Support and Services; Networking; Software and Systems Development; Games and Simulation_.
-1. [Marketing, Sales, and Services (MSS)](https://www.cde.ca.gov/ci/ct/sf/documents/mktsalesservices.pdf), which includes career pathways for _Marketing; Professional Sales; Entrepreneurship/Self-Employment_.
-1. [Fashion and Interior Design (FID)](https://www.cde.ca.gov/ci/ct/sf/documents/fashioninterior.pdf), which includes career pathways for _Fashion Design and Merchandising; Interior Design; Personal Services_.
+I have a [Career and Technical Education (CTE)](https://www.cde.ca.gov/ci/ct/sf/ctemcstandards.asp) credential with authorizations to teach subjects in these industry sectors:
+
+| Industry Sector                                                                                               | Career Pathways                                                                                                 |
+| :------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
+| [Arts, Media and Entertainment (AME)](https://www.cde.ca.gov/ci/ct/sf/documents/artsmedia.pdf)                | _Design, Visual, and Media Arts; Game Design and Integration; Performing Arts; Production and Managerial Arts_. |
+| [Information and Communication Technologies (ICT)](https://www.cde.ca.gov/ci/ct/sf/documents/infocomtech.pdf) | _Software and Systems Development; Games and Simulation; Information Support and Services; Networking_.         |
+| [Fashion and Interior Design (FID)](https://www.cde.ca.gov/ci/ct/sf/documents/fashioninterior.pdf)            | _Fashion Design and Merchandising; Interior Design; Personal Services_.                                         |
+| [Marketing, Sales, and Services (MSS)](https://www.cde.ca.gov/ci/ct/sf/documents/mktsalesservices.pdf)        | _Marketing; Professional Sales; Entrepreneurship/Self-Employment_.                                              |
 
 ## Before I was a teacher...
 
