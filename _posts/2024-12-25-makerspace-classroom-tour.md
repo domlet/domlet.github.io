@@ -1,5 +1,5 @@
 ---
-title: "Maker Educator: Makerspace Tour"
+title: "Maker Educator: Tour My Makerspace"
 date: 2024-12-25T00:00:20+0000
 categories: [makerspace]
 tags:
