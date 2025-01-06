@@ -17,7 +17,8 @@ image:
 
 ---
 
-For each slideshow below, click the `‹` and `›` arrows to see more photos. You can also [explore a 3D model of the classroom](https://domlet.github.io/3d/) from [this post](/posts/3d-models).
+![3D model of Mx.B's classroom at CCPA](/assets/img/th-domlet-3d-640x330.gif){: .right width="200"}
+For each slideshow below, click the `‹` and `›` arrows to see more photos. You can also [explore a 3D model](https://domlet.github.io/3d/) from [this post](/posts/3d-models). For reference, here is a ["before" picture](/assets/img/maker-educator/domlet-maker-ccpa-classroom-before-makerspace-FA22.png).
 
 ### Programming is Social
 
@@ -80,3 +81,5 @@ Computer science students at CCPA have seen [micro-kitchens](https://interiorarc
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322798931" title="Makerspace Kitchen"><img src="https://live.staticflickr.com/65535/54229075300_b5fe291143.jpg" width="500" height="375" alt="Makerspace Kitchen"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The classroom kitchenette also reduces teacher labor for lessons involving food or liquid, and validates students with aspirations or interests related to **cooking, food systems, or building trades like plumbing**. In Fall 2024, we installed an under-the-sink water filter to protect all users from lead and other toxins.
+
+The microwave, hot-water dispenser, rice cooker, Instant Pot, and waffle maker are the most-used kitchen appliances. And we keep the kitchen stocked so students may self-serve these items: white rice, Valentina hot sauce, soy sauce, chicken boullion, salt and pepper, seasoned salt, and garlic powder. Plastic cutlerly is available on request.
