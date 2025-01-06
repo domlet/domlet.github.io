@@ -29,4 +29,6 @@ Someday Lists are activities and projects in which I've outline the required mat
 
 ## Google Tasks
 
+I use Google Tasks to create to-do action items whenever they pop into my brain. It's ideal for one person, and it's convenient for me to switch between to-do lists for my work vs personal accounts. I would like to have an Alexa-to-Tasks skill...that's on my to-do list. 🤣
+
 ![Screenshot of Google Tasks](/assets/img/maker-educator/domlet-maker-todo-list.jpg)
