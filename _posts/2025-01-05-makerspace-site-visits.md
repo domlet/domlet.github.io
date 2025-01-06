@@ -4,7 +4,7 @@ date: 2025-01-05T00:00:20+0000
 categories: [makerspace]
 tags: [makerspace, maker educator]
 description: Visiting other spaces to learn what's possible.
-toc: false
+toc: true
 pin: false
 image:
   path: /assets/img/maker-educator/domlet-makerspace-site-visits.jpg
