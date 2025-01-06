@@ -46,7 +46,7 @@ From my experience coaching high school robotics, I know that kids love motors a
 
 _To serve 120 students working in pairs for 3 hours, we used..._
 
-- Three [DC Motors kits (18 motors in each)](https://www.walmart.com/ip/18-Set-276PCS-DC-Motor-Kit-Mini-Electric-Circuit-Kit-DIY-Science-Projects-Motors-LED-Light-Vanes-Propeller-AA-Battery-Holder-Plastic-Gears-Electrical/5124711731).
+- Three [DC Motors kits (18 motors in each)](https://www.walmart.com/ip/18-Set-276PCS-DC-Motor-Kit-Mini-Electric-Circuit-Kit-DIY-Science-Projects-Motors-LED-Light-Vanes-Propeller-AA-Battery-Holder-Plastic-Gears-Electrical/5124711731) (read more below in 'what didn't work').
 - AA and 9V batteries (the AA were useless, so I recommend ONLY 9V batteries)
 - hot glue and glue guns
 - lots of different sized rubber bands
@@ -72,7 +72,8 @@ _What worked well?_
 _What could work better?_
 
 - cars needed to be SUPER LIGHT for these tiny motors
-- the tension on rubber bands had to be JUST right
+- the tension on rubber bands had to be JUST RIGHT for the motors
+- getting the motor to power the car was VERY challenging (but students were very engaged with the problem and stayed remarkably motivated)
 - wheels took too much time; provide better wheel materials so kids can focus on other issues
 - some students had difficulty [stripping wires with these](https://www.amazon.com/dp/B08LTHY9RD/ref=sspa_dk_detail_6?psc=1&pd_rd_i=B08LTHY9RD&pd_rd_w=EH4pR&content-id=amzn1.sym.f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_p=f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_r=W9DE796DAKA3CV3WCR2E&pd_rd_wg=jBXRy&pd_rd_r=b46d2c9b-f3ff-4760-83d2-4f6be8fc3816&s=hi&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM); could pre-strip or use better strippers
 

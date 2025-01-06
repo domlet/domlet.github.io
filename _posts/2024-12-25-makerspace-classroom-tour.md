@@ -1,5 +1,5 @@
 ---
-title: "Maker Educator: Tour my Classroom"
+title: "Maker Educator: Tour My Classroom"
 date: 2024-12-25T00:00:20+0000
 categories: [makerspace]
 tags:
@@ -13,12 +13,12 @@ toc: true
 pin: true
 image:
   path: /assets/img/th-domlet-makerspace-tour-1200x630.jpg
-  alt: Classroom snapshot at the start of Fall 2024. Seats 34 students.
+  alt: Classroom snapshot at the start of Fall 2024. Seats 34 high school students.
 
 ---
 
 ![3D model of Mx.B's classroom at CCPA](/assets/img/th-domlet-3d-640x330.gif){: .right width="200"}
-For each slideshow below, click the `‹` and `›` arrows to see more photos. You can also [explore a 3D model](https://domlet.github.io/3d/) from [this post](/posts/3d-models). For reference, here is a ["before" picture](/assets/img/maker-educator/domlet-maker-ccpa-classroom-before-makerspace-FA22.png).
+For each slideshow below, click the `‹` and `›` arrows to see more photos. You can also [explore a 3D model](https://domlet.github.io/3d/) from [this post](/posts/3d-models). For reference, here is a ["before" picture](/assets/img/maker-educator/domlet-maker-ccpa-classroom-before-makerspace-FA22.png) of the room.
 
 ### Programming is Social
 
@@ -28,7 +28,11 @@ But with teens in particular, when learning is social it can also energize parti
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720322859102" title="CCPA Social Computing"><img src="https://live.staticflickr.com/65535/54236335120_69f82cd7f3.jpg" width="500" height="375" alt="CCPA Social Computing"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-In computer science classrooms, we spaces and activities primarily prioritize the development of **deep focus and organized, methodical thinking**. Those practices are crucial for learning how to program computers. But we should also offer students experiences that **stimulate their creativity, activate unexpected neural connections, and facilitate teamwork**. In my classroom, that means including spaces with larger screens (for more eyeballs), modular furniture (to acommodate more body types), and more standing workspaces (for more movement _between_ groups).
+In computer science classrooms, we tend to favor spaces and activities that prioritize the development of **deep focus and organized, methodical thinking**. Those practices are crucial for learning how to program computers. But we should also offer students experiences that **stimulate their creativity, activate unexpected neural connections, and facilitate teamwork**. In my classroom, that means including spaces with larger screens (for more eyeballs), modular furniture (to acommodate more body types), and more standing workspaces (for more movement _between_ groups).
+
+> I do believe that if I help students fall in love with the creative acts of inventing, iterating, and innovating – and I give them permission to fall in love with the problems around them – that is the greatest (and longest-lasting) human gift I can give them. And by extension that is the greatest gift I can give them.
+
+As the particular human being I am, that is my specific a[bundance](https://makeagif.com/i/1VeF3E).
 
 ### Fab Lab (3D Printers)
 
