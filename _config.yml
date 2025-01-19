@@ -39,7 +39,7 @@ social:
   email: hello@dombrassey.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/username # change to your github homepage
+    - https://github.com/domlet # change to your github homepage
     - https://linkedin.com/in/dombrassey
     # - https://www.facebook.com/username
     # - https://twitter.com/username # change to your twitter homepage
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-CFD7KECQZ0 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
