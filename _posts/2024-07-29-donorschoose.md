@@ -17,6 +17,12 @@ image:
 
 ## We did it!
 
+1. [Recording Studio for Game Designers](https://www.donorschoose.org/project/recording-studio-for-game-designers/8952788/) - Apr 24, 2025
+1. [Game Design Hits Different in CMYK](https://www.donorschoose.org/project/game-design-hits-different-in-cmyk/9061011/) - Apr 24, 2025
+1. [Mo' Iterative Cycles, Mo' Materials](https://www.donorschoose.org/project/mo-iterative-cycles-mo-materials/9141217/) - Apr 24, 2025
+1. [Students Cooking Rice for Each Other](https://www.donorschoose.org/project/students-cooking-rice-for-each-other/9138316/) - Mar 4, 2025
+1. [Prototyping Materials for High School Game Design Class](https://www.donorschoose.org/project/prototyping-materials-for-high-school-ga/9000627/) - Dec 29, 2024
+1. [Money That Folds For Financial Literacy](https://www.donorschoose.org/project/money-that-folds-for-financial-literacy/8780906/) - Oct 7, 2024
 1. [Prototyping Materials for High School Game Design Class
    ](https://www.donorschoose.org/project/prototyping-materials-for-high-school-ga/9000627/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2025-01-project-teacher_8637964&challengeid=22010160) - Dec 28, 2024
 1. [Whiteboard Wallpaper for Students Practicing Algorithms](https://www.donorschoose.org/project/whiteboard-wallpaper-for-students-practi/8810398/?rf=link-dc-2024-12-teacher_profile-teacher_8637964&challengeid=22010160&utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964) - Dec 2, 2024
