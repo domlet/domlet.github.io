@@ -41,7 +41,7 @@ To see projects I'm most proud of, explore posts tagged as [greatest hits](/tags
 
 ## Community Service
 
-- Board Director, **National Center for Lesbian Rights (NCLR)** (2019 - Present)
+- Board Director, **National Center for LGBTQ Rights (NCLR)** (2019 - Present)
 - Guest Judge, **FEMTech Bootcamp** (2021)
 - Organizer, All-Gender Book Club, **Lesbians Who Tech** (2018 - 2019)
 - Coding Scholarship Advisor, **Hack Reactor** (2016 - 2018)
