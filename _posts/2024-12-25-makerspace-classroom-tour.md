@@ -8,7 +8,7 @@ tags:
     makerspace,solving everyday problems,
 maker educator,    Sonoma State University, design, greatest hits
   ]
-description: Building a classroom / hackerspace for high school makers.
+description: Makerspace-enabled classroom for robotics, game design, and computer science.
 toc: true
 pin: true
 image:
