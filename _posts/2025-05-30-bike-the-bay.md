@@ -35,7 +35,7 @@ _How it started._
 | 2   | **⛴ Angel Island**      | SF Ferry Terminal, Immigration Museum, Fort McDowell, Camp Reynolds                     |
 | 3   | **🛣️ GG Park**          | 'The Wiggle', The Panhandle, Golden Gate Park, DeYoung Museum, Ocean Beach              |
 | 4   | **🌊 East Bay**         | Norh Berkeley BART, Seabreeze Cafe, Tom Bates Field, Bay Street Mall, West Oakland BART |
-| 5   | **🍜 Eat Chinese Food** | Fort Mason Park, Sports Basement Presidio, Hang Ah Tea Room                             |
+| 5   | **🍜 Eat Chinese Food** | Fort Mason Park, Sports Basement Presidio, Hang Ah Tea Room, Union Square               |
 
 ## Learning objectives
 
