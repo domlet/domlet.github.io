@@ -8,9 +8,6 @@ tags:
     Coliseum College Prep Academy,
     field trips,
     bicycles,
-    Mapbox GL JS,
-    web maps,
-    web-based application,
     solving everyday problems,
     Oakland,
     SF Bay Area,
@@ -75,23 +72,23 @@ _Students will be able to..._
 
 ## Budget
 
-A fire at the San Leandro Station
-
 ### Grants / Scholarships
 
-- [PVF Excursion Grants](https://www.venturesfoundation.org/programs/teacher-grants/excursion-grants-program/)
-- [A to Z Fund Mini-Grants](https://www.oaklandedfund.org/programs/atoz/atoz-minigrants/)
+- [Oakland Goes Outdoors (OGO)](https://sites.google.com/ousd.org/oaklandgoesoutdoors/)
+- [Free Muni for All Youth (18 years and younger)](https://www.sfmta.com/fares/free-muni-all-youth-18-years-and-younger)
+- [Angel Island Scholarships](https://www.aiisf.org/field-trips)
 - [4imprint one by one grants](https://onebyone.4imprint.com/application)
 - [DonorsChoose](https://www.donorschoose.org/mxb)
-- [Angel Island Scholarships](https://www.aiisf.org/field-trips)
 
 ### Discounts
 
 - BART [Group Sales](https://www.bart.gov/tickets/sales/groupsales) and [School Field Trips Program](https://www.bart.gov/tickets/fieldtrips)
-- [SF Bay Ferry](https://sanfranciscobayferry.com/school-groups/)
+- [SF Bay Ferry: School Groups](https://sanfranciscobayferry.com/school-groups/)
 - [Sticker Mule Deals](https://www.stickermule.com/deals)
 
 ### Full budget
+
+**Note on Bike Parking:** On the day of our first trip, an [electrical fire broke out at the San Leandro Station](https://www.youtube.com/watch?v=XC4jDn89nCE) – forcing our group to cross the bay using a combination of AC Transit and BART from 12th Street Station. Because we could not transport our bikes home to Coliseum Station, we locked all our bikes in the BikeLink group parking garage at Embarcadero Station. This was amazing! I've adjusted the budget (below) to include a $20 BikeLink card for each student next year. Students can alternatively use the BikeLink mobile app, which charges only $5 for a one-time photo verification by a human.
 
 <iframe height='400' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2xn7BNNdxMnVdzTm9BGW0nY6cfz5o5ZEUDm2nN9c-L4tYPdeuOppZRrIFraFBjKD19BrQdkOZsBrS/pubhtml?gid=624153727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
