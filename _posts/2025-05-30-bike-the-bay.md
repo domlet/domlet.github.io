@@ -12,7 +12,7 @@ tags:
     Oakland,
     SF Bay Area,
   ]
-description: 5 days. 22 students. Bikes on BART (and more).
+description: An adventure with high school students! 5 days with bikes on BART (and ferries).
 toc: true
 pin: true
 image:
@@ -25,7 +25,7 @@ image:
 ![Learning to ride](/assets/img/bike-the-bay-2025/learning-to-ride.gif)
 _How it started._
 
-**Bike The Bay was a new Postsession\* experience launched in 2025.** On this adventure, we rented Sport/Hybrid bicycles and took 22 high school students on [five day trips](https://domlet.github.io/postsession25) to SF Bay Area destinations accessible via BART trains. Students learned about bicycle mechanics, physical fitness, SF Bay Area geography and ecosystems, and how to navigate public spaces and public transit safely and securely with bikes. For full participation, they earned credits to fulfill their Physical Education (PE) requirements for graduation.
+**Bike The Bay was a new Postsession\* experience launched in 2025.** On this adventure, we rented Sport/Hybrid bicycles for a week, and took 22 high school students on [five day trips](https://domlet.github.io/postsession25) to SF Bay Area destinations accessible via BART trains. Students learned about bicycle mechanics, physical fitness, SF Bay Area geography and ecosystems, and how to navigate public spaces and public transit safely and securely with bikes. For full participation, they earned credits to fulfill their Physical Education (PE) requirements for graduation.
 
 ## Where did we go?
 
@@ -72,6 +72,8 @@ _Students will be able to..._
 
 ## Budget
 
+[Coliseum College Prep Academy](https://www.cde.ca.gov/SchoolDirectory/details?cdscode=01612590112797) is a [Title I](https://www.cde.ca.gov/sp/sw/) school.
+
 ### Grants / Scholarships
 
 - [Oakland Goes Outdoors (OGO)](https://sites.google.com/ousd.org/oaklandgoesoutdoors/)
@@ -92,7 +94,7 @@ _Students will be able to..._
 
 <iframe height='400' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2xn7BNNdxMnVdzTm9BGW0nY6cfz5o5ZEUDm2nN9c-L4tYPdeuOppZRrIFraFBjKD19BrQdkOZsBrS/pubhtml?gid=624153727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-## Playlist
+## Playlist (Music)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7o971PqdZhB4AQDaapHenZ?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
