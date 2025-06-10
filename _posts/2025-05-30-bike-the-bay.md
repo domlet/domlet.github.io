@@ -97,6 +97,10 @@ _Students will be able to..._
 
 <iframe height='400' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2xn7BNNdxMnVdzTm9BGW0nY6cfz5o5ZEUDm2nN9c-L4tYPdeuOppZRrIFraFBjKD19BrQdkOZsBrS/pubhtml?gid=624153727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
+## Photos & Videos
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720326751060" title="CCPA Social Computing"><img src="https://live.staticflickr.com/65535/54236335120_69f82cd7f3.jpg" width="100%" height="375" alt="CCPA Social Computing"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Playlist (Music)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7o971PqdZhB4AQDaapHenZ?utm_source=generator" width="100%" height="500" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
