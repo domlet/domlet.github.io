@@ -29,6 +29,8 @@ _How it started._
 
 ## Where did we go?
 
+The five day trips are summarized and [mapped](https://www.google.com/maps/d/u/0/edit?mid=15wuHhGM3TzHTvvgeZnBx-WslYk--ad4&usp=sharing) below. I used the 'Google My Maps' document to generate line geometries for the [mobile app](https://domlet.github.io/postsession25). The [daily itineraries speadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNw0e583X1cRLA4AZ16hERlCQ80CRZxfdx6vnaCN4kbLwWOxMPM4ZCv8f8xMjNDImd-IcPwE5bEGCN/pubhtml?gid=624153727&single=true) contains links to the **actual routes**, some of which were shortened to add more time for rest and walking exploration.
+
 | Day | Trip                    | Points of Interest                                                                      |
 | :-- | :---------------------- | --------------------------------------------------------------------------------------- |
 | 1   | **🌁 GG Bridge**        | Sports Basement Presidio, Crissy Field, Palace of Fine Arts, Golden Gate Bridge         |
@@ -37,6 +39,7 @@ _How it started._
 | 4   | **🌊 East Bay**         | Norh Berkeley BART, Seabreeze Cafe, Tom Bates Field, Bay Street Mall, West Oakland BART |
 | 5   | **🍜 Eat Chinese Food** | Fort Mason Park, Sports Basement Presidio, Hang Ah Tea Room, Union Square               |
 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=15wuHhGM3TzHTvvgeZnBx-WslYk--ad4&ehbc=2E312F"  height="500"></iframe>
 ## Learning objectives
 
 _Students will be able to..._
