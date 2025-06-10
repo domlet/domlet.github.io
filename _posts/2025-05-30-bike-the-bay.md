@@ -88,7 +88,7 @@ _Students will be able to..._
 
 ### Full budget
 
-**Note on Bike Parking:** On the day of our first trip, an [electrical fire broke out at the San Leandro Station](https://www.youtube.com/watch?v=XC4jDn89nCE) – forcing our group to cross the bay using a combination of AC Transit and BART from 12th Street Station. Because we could not transport our bikes home to Coliseum Station, we locked all our bikes in the BikeLink group parking garage at Embarcadero Station. This was amazing! I've adjusted the budget (below) to include a $20 BikeLink card for each student next year. Students can alternatively use the BikeLink mobile app, which charges only $5 for a one-time photo verification by a human.
+**Note on Bike Parking:** On the day of our first trip, an [electrical fire broke out at the San Leandro Station](https://www.youtube.com/watch?v=XC4jDn89nCE) – forcing our group to cross the bay using a combination of AC Transit and BART from 12th Street Station. Because we could not transport our bikes home to Coliseum Station, we locked all our bikes in the BikeLink group parking garage at Embarcadero Station. This was amazing! I've adjusted the budget (below) to include a $20 BikeLink card for each student next year. Students can alternatively use the BikeLink mobile app, which charges only $5 for a one-time verification fee.
 
 <iframe height='400' src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS2xn7BNNdxMnVdzTm9BGW0nY6cfz5o5ZEUDm2nN9c-L4tYPdeuOppZRrIFraFBjKD19BrQdkOZsBrS/pubhtml?gid=624153727&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
