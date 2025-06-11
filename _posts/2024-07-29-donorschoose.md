@@ -11,6 +11,8 @@ image:
   alt: DonorsChoose is an online platform makes it easy for anyone to give directly to a classroom in need.
 ---
 
+[![I can help new teachers get started with DonorsChoose!](assets/img/donorschoose-share-link.jpg)](http://share.donorschoose.org/76MrwJ)
+
 ## Current projects
 
 - [**Mx. B’s Classroom at CCPA**](https://www.donorschoose.org/mxb)
@@ -49,3 +51,14 @@ image:
 For the last ~50 years, California's [Proposition&nbsp;13](https://www.strongtowns.org/journal/2018/7/20/mapping-the-effects-of-californias-prop-13) has allowed California residents (and businesses) with inherited homes (and privately owned commercial properties) to contribute fewer tax dollars to the state. As a result, education funding in California is significantly privatizated: Wealthier, property-owning Californians have more money to fund **their own** neighborhood public schools (or private schools), but schools **without access** to private funds simply have less money for facilities, field trips, teacher salaries, etc. Businesses paying fewer state taxes can easily choose to keep their money, and not support California schools at all.
 
 The disparity that California students experience as a result of this tax structure is known as _education&nbsp;inequality_. This is why [DonorsChoose is so vital](https://www.donorschoose.org/mxb) for California students and teachers in low-income areas.
+
+## The time that W. Kamau Bell won $1M on Celebrity Jeopardy
+
+![test](assets/img/donorschoose-kamau-jeopardy.jpg)
+
+DonorsChoose board member [W. Kamau Bell won Celebrity Jeopardy!](https://oaklandside.org/2025/04/24/w-kamau-bell-donates-his-celebrity-jeopardy-winnings-to-oakland-schools/) on April 23, 2025 – and used some of the $1M prize to sponsor ALL of the posted projects from teachers in the the Oakland Unified School District AND in Mobile, Alabama, where his dad lives. He also applied some of the prize money to match donations made to projects in the cities where he does stand-up comedy – like Chicago, Illinois, and Bloomington, Indiana. In [his own words](https://www.jeopardy.com/jbuzz/tournament-stories/w-kamau-bell-i-won-celebrity-jeopardy):
+
+> "...the million dollars I won will support America’s public school children. I played for the organization DonorsChoose, where public school teachers and administrators raise money to pay for school supplies, musical instruments, field trips, and other things that should be paid for by the government! I have talked about how awesome DonorsChoose is many, many times here, so you can only imagine how happy I am to be able to help them get so much money for the school children of America. From now on, I’m the Secretary of Education! If Trump’s choice, Linda McMahon, wants the title back, she can fight me for it. After all, as the former C.E.O. of World Wrestling Entertainment, Linda has way more experience fighting than she does educating."
+> {: .prompt-info }
+
+You can watch [this video](https://www.youtube.com/watch?v=VLPk2r2qD7A) to see the pivotal moments of his win.

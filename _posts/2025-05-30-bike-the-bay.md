@@ -80,9 +80,10 @@ _Students will be able to..._
 ### Grants / Scholarships
 
 - [Oakland Goes Outdoors (OGO)](https://sites.google.com/ousd.org/oaklandgoesoutdoors/)
+- [PVF Excursions Grant](https://www.venturesfoundation.org/programs/teacher-grants/excursion-grants-program/)
 - [Free Muni for All Youth (18 years and younger)](https://www.sfmta.com/fares/free-muni-all-youth-18-years-and-younger)
 - [Angel Island Scholarships](https://www.aiisf.org/field-trips)
-- [4imprint one by one grants](https://onebyone.4imprint.com/application)
+- [4imprint _one_ by _one_ grants](https://onebyone.4imprint.com/)
 - [DonorsChoose](https://www.donorschoose.org/mxb)
 
 ### Discounts
