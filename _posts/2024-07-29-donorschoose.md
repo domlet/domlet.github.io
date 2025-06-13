@@ -11,7 +11,7 @@ image:
   alt: DonorsChoose is an online platform makes it easy for anyone to give directly to a classroom in need.
 ---
 
-[![I can help new teachers get started with DonorsChoose!](assets/img/donorschoose-share-link.jpg)](http://share.donorschoose.org/76MrwJ)
+[![I can help new teachers get started with DonorsChoose!](assets/img/donorschoose-share-link.jpg)](https://share.donorschoose.org/76MrwJ)
 
 ## Current projects
 
