@@ -100,6 +100,8 @@ _Students will be able to..._
 
 ## Photos & Videos
 
+Mouseover the image below, then click the `‹` and `›` arrows to see all photos.
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dombrassey/albums/72177720326751060" title="CCPA Social Computing"><img src="https://live.staticflickr.com/65535/54581330508_6b8f48323d_c.jpg" width="100%" height="375" alt="CCPA Social Computing"/></a><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Playlist (Music)
