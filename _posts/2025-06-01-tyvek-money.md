@@ -62,7 +62,7 @@ Whereas [the backs of US bills](https://www.uscurrency.gov/denominations) featur
 
 While the social movements pictured on the bills are known for broad-based, diverse participantion and multiple social change strategies, I think the imagery foregrounds these strategies and groups:
 
-| Leader       | Strategy          | Identity Empasis                                       |
+| Organization | Strategy          | Identity Empasis                                       |
 | :----------- | ----------------- | ------------------------------------------------------ |
 | **Panthers** | Rhetorical Power  | Black, Urban, Men, Young Adult                         |
 | **S.T.A.R.** | Mutual Aid        | Trans Women, Latine, Black, Urban, Young Adult         |
