@@ -93,7 +93,7 @@ _Proofs shown in red, green, blue, purple, brown, and black._
 ![Invoice screenshot](assets/img/tyvek-money/tyvek-money-invoice-domlet.jpg)
 _Total cost was $254.13 USD; $237.88 for printing; $16.25 for shipping; Tax-exempt._
 
-### What worked well?
+## What worked well?
 
 - This [Photoshop tutorial from Texturelabs](https://www.youtube.com/watch?v=GLRDCn5UMOo) made the money look real ([see others](https://www.google.com/search?q=youtube+dollar+bill+effect+photoshop&oq=youtube+dollar+bill+effect+photoshop&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDkyNzJqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8))
 - Vertical orientation of bill fronts is good for Instagram!
@@ -105,7 +105,7 @@ _Total cost was $254.13 USD; $237.88 for printing; $16.25 for shipping; Tax-exem
 - Consistent design system (ie, group photo here, QR code here) makes future designs easier.
 - Tiny '2025' printed on the back will help us retire this edition (to control the school's cash liability).
 
-### What would we change?
+## What would we change?
 
 1. **Print future editions in different colors** to excite the students who appreciate the artwork and will save and collect the bills for sentimental value instead of spending them. Some students appreciate the material value of the bills more than the exchange value.
 1. **Try using a weight greater than 14#.** The 14# cuts and stacks nicely, but after folding or bring crumpled, they do not easily recover shape. Not sure that a heavier weight will fix this, but it would be interesting to compare. The program is only a few weeks old, so teachers are distributing new bills every time. I suspect that due to the 'wear-and-tear' of the bills, redistributing used bills may not feel very great.
