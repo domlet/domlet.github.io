@@ -62,12 +62,12 @@ Whereas [the backs of US bills](https://www.uscurrency.gov/denominations) featur
 
 While the social movements pictured on the bills are known for broad-based, diverse participantion and multiple social change strategies, I think the imagery foregrounds these strategies and groups:
 
-| Leader                                | Strategy          | Identity Empasis                                       |
-| :------------------------------------ | ----------------- | ------------------------------------------------------ |
-| **Huey Newton**                       | Rhetorical Power  | Black, Urban, Men, Young Adult                         |
-| **Sylvia Rivera & Marsha P. Johnson** | Mutual Aid        | Trans Women, Latine, Black, Urban, Young Adult         |
-| **Dolores Huerta**                    | Mass Mobilization | Latine, Woman, Parent, Agricultural/Rural, Young Adult |
-| **Nemonte Nenquimo**                  | Legal Power       | Indigenous, Woman, Ecuadorian, Rural, Young Adult      |
+| Leader       | Strategy          | Identity Empasis                                       |
+| :----------- | ----------------- | ------------------------------------------------------ |
+| **Panthers** | Rhetorical Power  | Black, Urban, Men, Young Adult                         |
+| **S.T.A.R.** | Mutual Aid        | Trans Women, Latine, Black, Urban, Young Adult         |
+| **U.F.W.**   | Mass Mobilization | Latine, Woman, Parent, Agricultural/Rural, Young Adult |
+| **Waorani**  | Legal Power       | Indigenous, Woman, Ecuadorian, Rural, Young Adult      |
 
 As such, the representations on the bills mostly reflect the [racial and ethnic demographics of our school](https://dq.cde.ca.gov/dataquest/dqcensus/enrethlevels.aspx?agglevel=School&year=2023-24&cds=01612590112797). However, our student body has a growing Arab and Central Asian population, and the 2025 edition includes no MENA (Middle East and North African) heroes. Native American and API (Asian and Pacific Islander) heroes are also absent from this first edition of the currency.
 
