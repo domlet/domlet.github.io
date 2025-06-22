@@ -27,6 +27,13 @@ _How it started._
 
 **Bike The Bay was a new Postsession\* experience launched in 2025.** On this adventure, we rented Sport/Hybrid bicycles for a week, and took 22 high school students on [five day trips](https://domlet.github.io/postsession25) to SF Bay Area destinations accessible via BART trains. Students learned about bicycle mechanics, physical fitness, SF Bay Area geography and ecosystems, and how to navigate public spaces and public transit safely and securely with bikes. For full participation, they earned credits to fulfill their Physical Education (PE) requirements for graduation.
 
+## What Problem(s) Are We Solving?
+
+1. OUSD students must [**earn 20 credits in Physical Education**](https://www.ousd.org/high-school-linked-learning-office/for-students-families/hs-graduation-requirements) to graduate from high school.
+1. Enhance the mobility of young adults by practicing **bicycle safely** in urban areas – including how to **transport bicycles** on BART trains of Bay Area ferries and **lock bicycles securely** outdoors or in BikeLink garages.
+1. **Physical activity** improves student' physical fitness, mental health, and self-esteem.
+1. Group adventures can improve students' **social skills, teamwork and problem-solving stamina**.
+
 ## Where did we go?
 
 The five day trips are summarized and [mapped](https://www.google.com/maps/d/u/0/edit?mid=15wuHhGM3TzHTvvgeZnBx-WslYk--ad4&usp=sharing) below. I used the 'Google My Maps' document to generate line geometries for the [mobile app](https://domlet.github.io/postsession25). The [daily itineraries speadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNw0e583X1cRLA4AZ16hERlCQ80CRZxfdx6vnaCN4kbLwWOxMPM4ZCv8f8xMjNDImd-IcPwE5bEGCN/pubhtml?gid=624153727&single=true) contains links to the **actual routes**, some of which were shortened to add more time for rest and walking exploration.

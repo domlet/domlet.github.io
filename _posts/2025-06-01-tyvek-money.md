@@ -23,7 +23,16 @@ image:
 
 CCPA Bucks are printed bills that teachers can use to reward positive student behavior and also incentivize money management. This edition of CCPA Bucks are "D3 dollars" meaning that teachers in Division 3 (10th-12th grade) exchange this currency with students in those grades.
 
-## Why use Tyvek®?
+## What Problem(s) Are We Solving?
+
+Bring **campus community behaviors** into greater alignment with CCPA school values:
+
+1.  **C**ommunity
+1.  **C**uriosity
+1.  **P**ersistence
+1.  **A**chievement
+
+## Why Use Tyvek®?
 
 In 2005, I saw an ingenius use of Tyvek®: [Incarcerated students](https://www.mttamcollege.edu/our-student-community/) were using [USPS envelopes](https://store.usps.com/store/product/priority-mail-tyvek-envelopes-P_EP_14) to organize their schoolwork because it was available and not considered contraband (staples, paperclips, and binders are not allowed). Excited by the possibilities of this material, I ordered a [Mighty Wallet](https://www.google.com/search?sca_esv=3bb0e53af8618b52&sxsrf=AE3TifNbf8mV82wntQcYjvPZS9IVbfnEUg:1750011259688&q=tyvek+%22mighty+wallet%22&biw=1280&bih=1328&dpr=1) – which turned out to be terrible because it slipped out of my pocket like a [well-behaved package in a mail-sorting machine](https://www.savethepostoffice.com/a-tour-of-the-new-usps-package-sorting-machine/) while I was riding my bicycle around San Francisco.
 
@@ -44,12 +53,12 @@ I must also honor the Earth. DuPont states that [Tyvek®](https://www.dupont.com
 
 The 2025 design system **features on bill fronts** specific social movement leaders who generated organizational capital by engaging with their own communities to advance collective wellness. I aligned these leaders with CCPA's four core values: Community, Curiosity, Persistence, and Achievement. In the 2025 edition of CCPA Bucks, the leaders (and social movements) represented include:
 
-| Value           | Leader                                | Social Movement / QR code                                                         |
-| :-------------- | :------------------------------------ | --------------------------------------------------------------------------------- |
-| **C**ommunity   | **Huey Newton**                       | [The Black Panther Party for Self-Defense](https://youtu.be/6UBOl5Yq-ms)          |
-| **C**uriosity   | **Sylvia Rivera & Marsha P. Johnson** | [Street Transvestite Action Revolutionaries (STAR)](https://youtu.be/MhGf-ba5Syw) |
-| **P**ersistence | **Dolores Huerta**                    | [United Farmworkers (UFW)](https://youtu.be/vqz9qkPqD4M)                          |
-| **A**chievement | **Nemonte Nenquimo**                  | [Waorani of Pastaza (Ecuador)](https://www.youtube.com/watch?v=tl4LAwHkaYM)       |
+| Value           | Organization | Social Movement / QR code                                                         |
+| :-------------- | :----------- | --------------------------------------------------------------------------------- |
+| **C**ommunity   | **Panthers** | [The Black Panther Party for Self-Defense](https://youtu.be/6UBOl5Yq-ms)          |
+| **C**uriosity   | **S.T.A.R.** | [Street Transvestite Action Revolutionaries (STAR)](https://youtu.be/MhGf-ba5Syw) |
+| **P**ersistence | **U.F.W.**   | [United Farmworkers (UFW)](https://youtu.be/vqz9qkPqD4M)                          |
+| **A**chievement | **Waorani**  | [Waorani of Pastaza (Ecuador)](https://www.youtube.com/watch?v=tl4LAwHkaYM)       |
 
 Whereas [the backs of US bills](https://www.uscurrency.gov/denominations) feature federal buildings and the phrase "[In God We Trust](https://en.wikipedia.org/wiki/In_God_We_Trust)", **the backs of CCPA Bucks feature** descriptive quotations from the leaders pictured on the fronts, and [QR codes](https://github.com/ccpaRobotics/money-qr-code-redirects/blob/main/qr-star.png) that link to online resources. These features enable our community to learn about these heroes as immediately or intentionally as time and effort allow:
 
@@ -62,12 +71,12 @@ Whereas [the backs of US bills](https://www.uscurrency.gov/denominations) featur
 
 While the social movements pictured on the bills are known for broad-based, diverse participantion and multiple social change strategies, I think the imagery foregrounds these strategies and groups:
 
-| Organization | Strategy          | Identity Empasis                                       |
-| :----------- | ----------------- | ------------------------------------------------------ |
-| **Panthers** | Rhetorical Power  | Black, Urban, Men, Young Adult                         |
-| **S.T.A.R.** | Mutual Aid        | Trans Women, Latine, Black, Urban, Young Adult         |
-| **U.F.W.**   | Mass Mobilization | Latine, Woman, Parent, Agricultural/Rural, Young Adult |
-| **Waorani**  | Legal Power       | Indigenous, Woman, Ecuadorian, Rural, Young Adult      |
+| Leader                                | Strategy           | Identity Empasis                                       |
+| :------------------------------------ | ------------------ | ------------------------------------------------------ |
+| **Huey Newton**                       | Rhetorical Power   | Black, Urban, Men, Young Adult                         |
+| **Sylvia Rivera & Marsha P. Johnson** | Mutual Aid         | Trans Women, Latine, Black, Urban, Young Adult         |
+| **Dolores Huerta**                    | Coalition-Building | Latine, Woman, Parent, Agricultural/Rural, Young Adult |
+| **Nemonte Nenquimo**                  | Legal Power        | Indigenous, Woman, Ecuadorian, Rural, Young Adult      |
 
 As such, the representations on the bills mostly reflect the [racial and ethnic demographics of our school](https://dq.cde.ca.gov/dataquest/dqcensus/enrethlevels.aspx?agglevel=School&year=2023-24&cds=01612590112797). However, our student body has a growing Arab and Central Asian population, and the 2025 edition includes no MENA (Middle East and North African) heroes. Native American and API (Asian and Pacific Islander) heroes are also absent from this first edition of the currency.
 

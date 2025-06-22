@@ -11,23 +11,22 @@ image:
   alt: Photos CC BY 3.0 US Mapbox Uncharted ERG
 ---
 
-_Reposted from the [Mapbox blog](https://blog.mapbox.com/queer-in-tech-free-stock-photos-from-mapbox-87aba2e7c7da)._
+_Adapted from [this Mapbox blog post](https://blog.mapbox.com/queer-in-tech-free-stock-photos-from-mapbox-87aba2e7c7da)._
 
-Behind every API endpoint, every map rendered with Mapbox GL, every tweet liked, and every support ticket answered at Mapbox, there is a team of humans striving to make our platform as [flexible and extraordinary](https://twitter.com/hashtag/builtwithmapbox) as the people who build with it.
+On Feb 14, 2020, Mapbox released [“Queer in Tech,” a free collection of stock photos](https://www.flickr.com/photos/mapbox/albums/72157713100349311/) created by _Uncharted_, our employee resources program led by LGBTQIA+ Mapboxers. _Uncharted_ created this photo set to promote the visibility of queer and gender-nonconforming (GNC) people in technology, who are often under-represented as workers powering the creative, technical, and business leadership of groundbreaking tech companies and products.
 
-Our teams also work behind the scenes to cultivate belonging for everyone here, across generations and geographies — and at our many intersections of identity and experience, including race, class, sex, gender, ability, sexual orientation, family composition, country of origin, military service, and more. We strive to notice diversity and leverage different perspectives to enrich our understanding of our colleagues, ourselves, our customers, and people everywhere.
-
-In this spirit, we’re releasing [“Queer in Tech,” a free collection of stock photos](https://www.flickr.com/photos/mapbox/albums/72157713100349311/) created by our employee resources program. We created this photo set to promote the visibility of queer and gender-nonconforming (GNC) people in technology, who are often under-represented as workers powering the creative, technical, and business leadership of groundbreaking tech companies and products.
+![Thumbnails from 'Queer in Tech' image collection from Mapbox](assets/img/queer-in-tech-dom-brassey.jpg)
+_See and download [the image collection here](https://www.flickr.com/photos/mapbox/albums/72157713100349311/) on Flickr._
 
 We created these images to encourage and enable everyone in tech to represent LGBTQIA+ people at work. The photo collection includes images of collaboration and teamwork, leadership, design, engineering, and mobile development. We invite anyone to use them for blog posts, slide decks, billboards, digital ads, event promotion, or any other purpose promoting teamwork, leadership, or technology:
 
 These photos are licensed [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/) and they’re free for anyone to use, as long as the use contains attribution.
 
-- 👉 [Download the photos here on Flickr](https://www.flickr.com/photos/mapbox/albums/72157713100349311) 👈
+👉 [Download the photos here on Flickr](https://www.flickr.com/photos/mapbox/albums/72157713100349311) 👈
 
 ## Inspired by WOCTechChat
 
-This collection of photos was inspired by [Stephanie Morillo and Christina Morillo](https://modelviewculture.com/pieces/how-we-got-sponsorship-for-wocintech-photo-shoots)’s [\#WOCTechChat photos](https://www.flickr.com/photos/wocintechchat/albums), which emerged from a Twitter chat to shine a light on women of color, who are often “hidden figures” in tech. Mapbox Uncharted ERG (our employee resource group supporting an inclusive environment for LGBTQIA+ people at Mapbox) organized and sponsored the project. We consulted Christina Morillo directly and we sourced “models” for the photoshoot from our internal community and our peers attending the [Lesbians Who Tech Annual Summit in San Francisco](https://lesbianswhotech.org/).
+This collection of photos was inspired by [Stephanie Morillo and Christina Morillo](https://modelviewculture.com/pieces/how-we-got-sponsorship-for-wocintech-photo-shoots)’s [\#WOCTechChat photos](https://www.flickr.com/photos/wocintechchat/albums), which emerged from a Twitter chat to shine a light on women of color, who are often “hidden figures” in tech. _Mapbox Uncharted ERG_ (our employee resource group supporting an inclusive environment for LGBTQIA+ people at Mapbox) organized and sponsored the project. We consulted Christina Morillo directly and we sourced “models” for the photoshoot from our internal community and our peers attending the [Lesbians Who Tech Annual Summit in San Francisco](https://lesbianswhotech.org/).
 
 ## Impossible without models!
 
