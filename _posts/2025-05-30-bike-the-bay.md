@@ -11,6 +11,7 @@ tags:
     solving everyday problems,
     Oakland,
     SF Bay Area,
+    greatest hits,
   ]
 description: An adventure with high school students! 5 days with bikes on BART (and ferries).
 toc: true
@@ -148,6 +149,8 @@ Mouseover the image below, then click the `‹` and `›` arrows to see all phot
 - Shorten some routes
 - Tire Patch kits
 - Have a recovery day after GGP (not Monday / Memorial Day off)
+- Should have introduced the idea of Dim Sum (What is it?)
+- Better icebreakers (getting to know you activities)
 
 ## About Postsession
 

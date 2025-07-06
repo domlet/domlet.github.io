@@ -33,7 +33,17 @@ I have a [Career and Technical Education (CTE)](https://www.cde.ca.gov/ci/ct/sf/
 
 ## Before I was a teacher...
 
-**Before I became a teacher at age 40** ✨ I worked as a Brand Strategist and Technical Writer at [Mapbox](https://mapbox.com), a high-growth, venture-funded SaaS/DaaS startup competing in the mapping and geospatial technology space. My career experiences also include co-owning and operating a gender-nonconforming clothing startup; organizing diversity-focused educational events and tech career fairs in midsize cities across the United States; developing recruiting and retention programs for [LGBTQIA+ tech workers](/posts/queer-in-tech-photos/); facilitating Women in Management groups at The Stanford Graduate School of Business; managing an ecommerce website for a multi-channel clothing retailer; designing and building websites and user interfaces; and producing communications for public benefit projects in the social sector.
+**Before I became a teacher at age 40** ✨ I worked as a Brand Strategist and Technical Writer at [Mapbox](https://mapbox.com), a high-growth, venture-funded SaaS/DaaS startup competing in the mapping and geospatial technology space.
+
+I also...
+
+1. ran a gender-nonconforming clothing startup;
+1. organized diversity-focused educational events and tech career fairs in midsize cities across the United States;
+1. developed recruiting and retention programs for [LGBTQIA+ tech workers](/posts/queer-in-tech-photos/);
+1. facilitated Women in Management groups at The Stanford Graduate School of Business;
+1. managed an ecommerce website for a multi-channel clothing retailer;
+1. designed and built websites and user interfaces;
+1. produced communications for public benefit projects in the social sector.
 
 ## Greatest hits
 
@@ -41,7 +51,7 @@ To see projects I'm most proud of, explore posts tagged as [greatest hits](/tags
 
 ## Community Service
 
-- Board Director, **National Center for LGBTQ Rights (NCLR)** (2019 - Present)
+- Board Director, **National Center for LGBTQ Rights (NCLR)** (2019 - 2025)
 - Guest Judge, **FEMTech Bootcamp** (2021)
 - Organizer, All-Gender Book Club, **Lesbians Who Tech** (2018 - 2019)
 - Coding Scholarship Advisor, **Hack Reactor** (2016 - 2018)
