@@ -1,11 +1,11 @@
 ---
 title: "DonorsChoose projects"
-date: 2024-07-29T16:47:20+0000
+date: 2025-05-15T16:47:20+0000
 categories: [projects]
 tags: [solving everyday problems, accessibility, teaching, greatest hits]
 description: Creating a creative workspace for students.
 toc: true
-pin: true
+pin: false
 image:
   path: assets/img/th-domlet-donorschoose-1200x630.jpg
   alt: DonorsChoose is an online platform makes it easy for anyone to give directly to a classroom in need.

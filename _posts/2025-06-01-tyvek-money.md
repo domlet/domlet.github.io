@@ -13,7 +13,7 @@ tags:
   ]
 description: Here's how we printed school money on Tyvek
 toc: true
-pin: true
+pin: false
 image:
   path: /assets/img/th-domlet-tyvek-money-printed-fronts.jpg
   alt: Get the bag.
@@ -38,7 +38,7 @@ In 2005, I saw an ingenius use of Tyvek®: [Incarcerated students](https://www.m
 
 In a nutshell, [**Tyvek®**](https://www.dupont.com/what-is-tyvek.html) is neither paper, cloth, nor plastic film – but it integrates the advantages of those three materials. It is a lightweight, durable, breathable, water-resistant and bacteria-resistant material made from high-density spunbound polyethylene fibers (HDPE) that are are [bonded using heat and pressure](https://www.dupont.com/tyvekdesign/design-with-tyvek/tyvek-printing-guide.html).
 
-![Tyvek® is used in Sterile packaging, Envelopes, Buildings, and more.](assets/img/tyvek-money/tyvek-what-is-it-domlet.jpg)
+![Tyvek® is used in Sterile packaging, Envelopes, Buildings, and more.](assets/img/tyvek-money/tyvek-what-is-it-domlet.png)
 _Tyvek® is used in Sterile packaging, Shipping envelopes, Buildings, and more._
 
 ### Is it safe?

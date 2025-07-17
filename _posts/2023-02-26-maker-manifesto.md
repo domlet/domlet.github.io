@@ -4,7 +4,7 @@ date: 2023-02-26T00:00:20+0000
 categories: [makerspace]
 tags: [teaching, makerspace, maker educator, Sonoma State University, pedagogy]
 description: Making is a dialogue with the world
-toc: true
+toc: false
 pin: false
 image:
   path: /assets/img/th-domlet-maker-philosophy-1200x630.jpg

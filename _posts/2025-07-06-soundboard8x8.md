@@ -8,7 +8,7 @@ digital art, audio, hack the classroom
   ]
 description: Good trouble for the classroom.
 toc: true
-pin: false
+pin: true
 image:
   path: /assets/img/th-domlet-soundboard8x8.gif
   alt: Press any button on the drum pad – hear a sound effect.

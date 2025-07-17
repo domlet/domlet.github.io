@@ -15,6 +15,7 @@ United States,    postcolonial,
   ]
 description: Can you read your way across the USA?
 toc: true
+pin: true
 image:
   path: /assets/img/th-domlet-literary-map-1200x630.gif
   alt: Users can click a state on the Literary Map and see a popup showing the book recommendation for that state.
