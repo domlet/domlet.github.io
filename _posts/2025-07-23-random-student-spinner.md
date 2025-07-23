@@ -99,7 +99,7 @@ Anyone can use this tool. It costs nothing to download, copy, publish or modify.
 
    1. **Need help?** Here's a [short video](https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey) demonstrating how to follow the steps above.
 
-      <a href="https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey" target="_blank"><img src="/assets/img/spinner/youtube-th-anim.gif" style="border:1px solid black;"></a>
+      <a href="https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey" target="_blank"><img src="/assets/img/spinner/youtube-th-anim.gif" style="border:1px solid black;" alt="GIF preview of YouTube instructional video"></a>
 
 ## Further development
 
