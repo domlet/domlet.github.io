@@ -16,7 +16,15 @@ image:
 
 ## What did I create?
 
-This project uses a [Novation Launchpad MK2](https://www.google.com/search?q=Novation+Launchpad+MK2) MIDI controller to play 64 unique [sound effects](/posts/soundboard8x8/#what-sounds-does-it-play) in my classroom. Wanna see it working? [Watch this video demo](https://www.youtube.com/embed/3VgG6COkYkM) or [view the code](https://github.com/domlet/soundboard8x8) on GitHub.
+This project uses a [Novation Launchpad MK2](https://www.google.com/search?q=Novation+Launchpad+MK2) MIDI controller to play 64 unique [sound effects](/posts/soundboard8x8/#what-sounds-does-it-play) in my classroom. Wanna see it working? [Watch this video demo](https://www.youtube.com/embed/3VgG6COkYkM) or [view the code](https://github.com/domlet/soundboard8x8) on GitHub. You can play with this web version, without the physical controller:
+
+<iframe 
+  src="https://domlet.github.io/soundboard8x8/" 
+  width="800" 
+  height="600" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
 
 ## What problem does this solve?
 
@@ -94,11 +102,6 @@ By interacting with the service for a few hours, I was able to build [the app I 
 > add the 8x8 grid back to the ui, make colors correspond to controller device colors -- unique color for each row
 [...]
 ```
-
-### Screenshot of the web app
-
-[![Web app with an 8x8 grid of colorful buttons.](assets/img/soundboard8x8/soundboard8x8_screenshot.png)](https://domlet.github.io/soundboard8x8/)
-_The resulting app included a user interface (UI)._
 
 ## What's next?
 
