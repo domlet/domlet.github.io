@@ -28,7 +28,7 @@ Then, I created [this video tutorial](https://youtu.be/GdIW5t9A8gQ) (below) as a
 
 I can activate the automation by saying _Hey Siri, Log Data_, and Siri asks me three questions. I answer the questions, and the data appears in three cells of a Google Sheet with an automatic timestamp:
 
-![log snippet, 4 rows of data](/assets/img/voice-to-sheets-automation/log_snippet.jpg)
+![log snippet, 4 rows of data](assets/img/voice-to-sheets-automation/log_snippet.jpg)
 
 Here's the text of the interaction with Siri:
 
@@ -53,7 +53,7 @@ This automation uses a default iOS app (Shortcuts) to turn my spoken words into 
 
 Here's a snapshot of the setup (including the webhook) in the Shortcuts app:
 
-![scrubbed setup screenshot](/assets/img/voice-to-sheets-automation/webhook-json-scrubbed.png){: width="400" }
+![scrubbed setup screenshot](assets/img/voice-to-sheets-automation/webhook-json-scrubbed.png){: width="400" }
 _Don't worry, I changed the Webhook after I posted the video._
 
 <div class="box-info">
@@ -94,7 +94,7 @@ https://maker.ifttt.com/trigger/practice_logging/with/key/`XXXXXXXkAmkw9DPXXXXXX
 
 ## Psychology of Habits
 
-![the habit loop is relaxed](/assets/img/voice-to-sheets-automation/habit-loop-is-cool.png){: width="400" }
+![the habit loop is relaxed](assets/img/voice-to-sheets-automation/habit-loop-is-cool.png){: width="400" }
 _ChatGPT side-stepped my [basal ganglia](https://www.google.com/search?q=%22basal+ganglia%22+diagram) request. But the habit loop is chill._
 
 Other ways to understand this automation are psychological and cognitive:
