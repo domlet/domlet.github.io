@@ -1,0 +1,198 @@
+<!-- The Side Bar -->
+
+<aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
+  <header class="profile-wrapper">
+    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
+      {%- if site.avatar != empty and site.avatar -%}
+      {%- capture avatar_url -%}
+      {% include media-url.html src=site.avatar %}
+      {%- endcapture -%}
+      <img src="{{- avatar_url -}}" width="112" height="112" alt="avatar" onerror="this.style.display='none'">
+      {%- endif -%}
+    </a>
+
+    <a class="site-title d-block" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+  </header>
+  <!-- .profile-wrapper -->
+
+  <nav class="flex-column flex-grow-1 w-100 ps-0">
+    <ul class="nav">
+      <!-- home -->
+      <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+        <a href="{{ '/' | relative_url }}" class="nav-link">
+          <i class="fa-fw fas fa-home"></i>
+          <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
+        </a>
+      </li>
+      <!-- the real tabs -->
+      {% for tab in site.tabs %}
+      <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
+        <a href="{{ tab.url | relative_url }}" class="nav-link">
+          <i class="fa-fw {{ tab.icon }}"></i>
+          {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
+
+          <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
+        </a>
+      </li>
+      <!-- .nav-item -->
+      {% endfor %}
+    </ul>
+  </nav>
+  <!-- BEGIN follow.it subscription form -->
+  <style>
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview {
+      display: flex !important;
+      flex-direction: column !important;
+      justify-content: center !important;
+      margin-top: 30px !important;
+      padding: clamp(17px, 5%, 40px) clamp(17px, 7%, 50px) !important;
+      max-width: none !important;
+      border-radius: 6px !important;
+      box-shadow: 0 5px 25px rgba(34, 60, 47, 0.25) !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview,
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview * {
+      box-sizing: border-box !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading {
+      width: 100% !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-heading h5 {
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field {
+      margin-top: 20px !important;
+      width: 100% !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
+      width: 100% !important;
+      height: 40px !important;
+      border-radius: 6px !important;
+      border: 2px solid #e9e8e8 !important;
+      background-color: #fff;
+      outline: none !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input {
+      color: #000000 !important;
+      font-family: "Montserrat" !important;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 20px;
+      text-align: center;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::placeholder {
+      color: #000000 !important;
+      opacity: 1 !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input:-ms-input-placeholder {
+      color: #000000 !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-input-field input::-ms-input-placeholder {
+      color: #000000 !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button {
+      margin-top: 10px !important;
+      width: 100% !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button {
+      width: 100% !important;
+      height: 40px !important;
+      border: 0 !important;
+      border-radius: 6px !important;
+      line-height: 0px !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .form-preview .preview-submit-button button:hover {
+      cursor: pointer !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .powered-by-line {
+      color: #231f20 !important;
+      font-family: "Montserrat" !important;
+      font-size: 13px !important;
+      font-weight: 400 !important;
+      line-height: 25px !important;
+      text-align: center !important;
+      text-decoration: none !important;
+      display: flex !important;
+      width: 100% !important;
+      justify-content: center !important;
+      align-items: center !important;
+      margin-top: 10px !important;
+    }
+
+    .followit--follow-form-container[attr-a][attr-b][attr-c][attr-d][attr-e][attr-f] .powered-by-line img {
+      margin-left: 10px !important;
+      height: 1.13em !important;
+      max-height: 1.13em !important;
+    }
+
+    .powered-by-line {
+      visibility: hidden;
+    }
+  </style>
+  <div class="followit--follow-form-container" attr-a attr-b attr-c attr-d attr-e attr-f>
+    <form data-v-8541cdc9="" action="https://api.follow.it/subscription-form/VG1vcysvR1VUL1E5K1pPbVI2eERuMGxUem1vZFozM3FtM1lQUTIzYngveGNSbzk5UE1pSUJocHdMRmlQTC9UL1NhNWMwMUN1WUNNbUNlc3QwTmZ3SlVrWVVFVklxb1p4U0ZHRzZ2VnZKS2Z2WmZFN1hLdlFnSzBTckFDZ3lneXJ8SGN1YUJwbkl2YkR0elBWQTYzdDR3Ti9DR0d6TVdSbDdLeVNnL05KaVlSMD0=/8" method="post">
+      <div data-v-8541cdc9="" class="form-preview" style="background-color: rgb(255, 255, 255); position: relative; border-style: solid; border-width: 1px; border-color: rgb(204, 204, 204);">
+        <div data-v-8541cdc9="" class="preview-heading">
+          <h5 data-v-8541cdc9="" style="font-family: Arial; font-weight: bold; color: rgb(0, 0, 0); font-size: 16px; text-align: center; text-transform: none !important;">Stay in Touch:</h5>
+        </div>
+        <div data-v-8541cdc9="" class="preview-input-field"><input data-v-8541cdc9="" type="email" name="email" required="" placeholder="Enter your email" spellcheck="false" style="font-family: Arial; font-weight: normal; color: rgb(0, 0, 0); font-size: 14px; text-align: center; background-color: rgb(255, 255, 255); text-transform: none !important;"></div>
+        <div data-v-8541cdc9="" class="preview-submit-button"><button data-v-8541cdc9="" type="submit" style="font-family: Arial; font-weight: bold; color: rgb(255, 255, 255); font-size: 16px; text-align: center; background-color: rgb(0, 0, 0); text-transform: none !important;">Subscribe</button></div>
+      </div>
+    </form>
+    <a href="https://follow.it" class="powered-by-line">Powered by <img src="https://follow.it/images/colored-logo.svg" alt="follow.it" height="17px" /></a>
+  </div>
+  <br />
+  <!-- end follow.it subscription form -->
+  <div class="sidebar-bottom d-flex flex-wrap  align-items-center w-100">
+    {% unless site.theme_mode %}
+    <button type="button" class="btn btn-link nav-link" aria-label="Switch Mode" id="mode-toggle">
+      <i class="fas fa-adjust"></i>
+    </button>
+
+    {% if site.data.contact.size > 0 %}
+    <span class="icon-border"></span>
+    {% endif %}
+    {% endunless %}
+
+    {% for entry in site.data.contact %}
+    {% case entry.type %}
+    {% when 'github', 'twitter' %}
+    {%- capture url -%}
+    https://{{ entry.type }}.com/{{ site[entry.type].username }}
+    {%- endcapture -%}
+    {% when 'email' %}
+    {% assign email = site.social.email | split: '@' %}
+    {%- capture url -%}
+    javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+    {%- endcapture -%}
+    {% when 'rss' %}
+    {% assign url = '/feed.xml' | relative_url %}
+    {% else %}
+    {% assign url = entry.url %}
+    {% endcase %}
+
+    {% if url %}
+    <a href="{{ url }}" aria-label="{{ entry.type }}" {% assign link_types='' %} {% unless entry.noblank %} target="_blank" {% assign link_types='noopener noreferrer' %} {% endunless %} {% if entry.type=='mastodon' %} {% assign link_types=link_types | append: ' me' | strip %} {% endif %} {% unless link_types==empty %} rel="{{ link_types }}" {% endunless %}>
+      <i class="{{ entry.icon }}"></i>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+  <!-- .sidebar-bottom -->
+</aside>
+<!-- #sidebar -->
