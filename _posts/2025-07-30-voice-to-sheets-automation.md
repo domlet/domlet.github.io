@@ -67,7 +67,7 @@ Other ways to understand this automation are psychological and cognitive:
 
 1. **My brain enjoys the 'beep' sound!** (Dopamine neurotransmitter spike goes _Wheeee!_.)
 
-1. When habits are new, _whole brains work hard_. But, when habits become routine, brain activity shifts deeper, into the **basal ganglia**, near emotion and motor control. Brains go into "automatic mode" during the **habit loop**, conserving energy. **Charles Duhigg(The Power of Habit)**.
+1. When habits are new, _whole brains work hard_. But, when habits become routine, brain activity shifts deeper, into the **basal ganglia**, near emotion and motor control. Brains go into "automatic mode" during the **habit loop**, conserving energy. **Charles Duhigg (The Power of Habit)**.
 
 ## Added Benefits
 
