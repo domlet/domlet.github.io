@@ -20,21 +20,15 @@ So when I enrolled in a [year-long Professional Development course](https://teac
 
 ## What Did I Create?
 
-I succeeded. 😎 Using a handful of free apps, I created an automation that works! You [can see a 45-second demo in this clip](https://youtube.com/clip/Ugkx2Xjs6FSib-xUmofEa2jWv5Geqc3Di1iE?si=UQrQ0cVBRovk8JP6).
+Watch this [45-second demo](https://youtube.com/clip/Ugkx2Xjs6FSib-xUmofEa2jWv5Geqc3Di1iE?si=UQrQ0cVBRovk8JP6). That's the automation. :)
 
-Then, to explain each step in the setup, I created [this video tutorial](https://youtu.be/GdIW5t9A8gQ) (see below) – which is one of my creative projects for said course:
+Then, I created [this video tutorial](https://youtu.be/GdIW5t9A8gQ) (below) as a project for said course ↓
 
 <iframe height="450" src="https://www.youtube.com/embed/GdIW5t9A8gQ?si=mKephdnfMQdZ-Rvr&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I can't share a `.shortcut` file because anyone downloading those can be [pwned](https://www.google.com/search?q=Pwned+meaning+in+cyber+security) – and I can't share the shortcut's iCloud link because publishing my webhook would allow random people and bots to spew data into my personal spreadsheet. Ha! _So, watch the video and make your own._
+I can activate the automation by saying _Hey Siri, Log Data_, and Siri asks me three questions. I answer the questions, and the data appears in three cells of a Google Sheet with an automatic timestamp:
 
-## How Does It Work?
-
-Watch this [45-second demo](https://youtube.com/clip/Ugkx2Xjs6FSib-xUmofEa2jWv5Geqc3Di1iE?si=UQrQ0cVBRovk8JP6).
-
-Basically, I say "Hey Siri, Log Data," and Siri asks me three questions. I answer the questions, and the data appears in three cells of a Google Sheet with an automatic timestamp, like this:
-
-![log snippet, 4 rows of data](assets/img/voice-to-sheets-automation/log_snippet.jpg)
+![log snippet, 4 rows of data](/assets/img/voice-to-sheets-automation/log_snippet.jpg)
 
 Here's the text of the interaction with Siri:
 
@@ -51,25 +45,82 @@ Siri: Anything else to note?
  Dom: No.
 ```
 
-Here's a snapshot (including webhook) in the Shortcuts app:
+I can't share a `.shortcut` file because anyone downloading those can be [pwned](https://www.google.com/search?q=Pwned+meaning+in+cyber+security) – and I can't share the shortcut's iCloud link because publishing my webhook would allow random people and bots to spew data into my personal spreadsheet. Ha! _So, watch the video and make your own._
 
-![scrubbed setup screenshot](assets/img/voice-to-sheets-automation/webhook-json-scrubbed.png){: width="400" }
+## How Does It Work?
+
+This automation uses a default iOS app (Shortcuts) to turn my spoken words into a JSON data object, and then sends it to Google Sheets by using the Webhooks service (now only for paying users) from the free IFTTT automation platform. The result is a simple spreadsheet with all my logged data in one place.
+
+Here's a snapshot of the setup (including the webhook) in the Shortcuts app:
+
+![scrubbed setup screenshot](/assets/img/voice-to-sheets-automation/webhook-json-scrubbed.png){: width="400" }
 _Don't worry, I changed the Webhook after I posted the video._
+
+<div class="box-info">
+<div class="title"> What's a Webhook? Ask ChatGPT.</div>
+A <strong>webhook</strong> is like a doorbell for apps. When something happens in one app, a webhook uses the Internet to go ring the doorbell (send a message) to another app – so that app can do the next thing.
+</div>
+
+## Security Risks
+
+The word `key` should always signal **confidential** to you, as a web developer.
+
+<div class="box-danger" markdown="1">
+<div class="title"> API key</div>
+A **`key`** is a unique identifier used to authenticate requests to a web service or API. In this case, you can see the key at the end of this Webhook:
+https://maker.ifttt.com/trigger/practice_logging/with/key/`XXXXXXXkAmkw9DPXXXXXXX`
+</div>
+
+**If you publish or expose** your IFTTT Webhooks key, all your webhooks become hackable (random people or bots could activate any of your webhook automations – your light switches, SMS services, calendar items, emails...) Things could get [Black Mirror](<https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)>) / [Twilight Zone](https://www.imdb.com/title/tt0734551/) for you.
+
+1. Log into IFTTT > Services > Webhooks > [Settings](https://ifttt.com/maker_webhooks/settings) > Regenerate Key
+1. Copy your new key (the one you just generated).
+1. Disconnect, then reconnect each applet using Webhooks in IFTTT.
+1. Update your apps or automations with your new webhooks key.
+1. Check Google Drive; if you have duplicate files...
+   1. Move your data into the newer file.
+   1. Delete the older file.
+1. Don't publish your new key!
+
+### Common Data Security Levels:
+
+| **Security Level** | **Possible Harm; Handling**                  | **Example**                |
+| ------------------ | -------------------------------------------- | -------------------------- |
+| **PUBLIC**         | No harm; OK to publish.                      | 🌸&nbsp; photo of a flower |
+| **PRIVATE**        | Low harm; Exposure not recommended.          | 📧&nbsp; email address     |
+| **CONFIDENTIAL**   | Harmful if disclosed; Do not expose.         | 🪪&nbsp; student records    |
+| **SENSITIVE**      | Significant harm; Requires special handling. | 🩻&nbsp; health data        |
+| **RESTRICTED**     | Severe harm; Strict access controls.         | 🔒&nbsp; trade secrets     |
 
 ## Psychology of Habits
 
-![the habit loop is relaxed](assets/img/voice-to-sheets-automation/habit-loop-is-cool.png){: width="400" }
+![the habit loop is relaxed](/assets/img/voice-to-sheets-automation/habit-loop-is-cool.png){: width="400" }
 _ChatGPT side-stepped my [basal ganglia](https://www.google.com/search?q=%22basal+ganglia%22+diagram) request. But the habit loop is chill._
 
 Other ways to understand this automation are psychological and cognitive:
 
-1. Automation makes my task so small, it qualifies it as an **Atomic Habit (James Clear)**.
-
 1. **My brain enjoys the 'beep' sound!** (Dopamine neurotransmitter spike goes _Wheeee!_.)
 
-1. When habits are new, _whole brains work hard_. But, when habits become routine, brain activity shifts deeper, into the **basal ganglia**, near emotion and motor control. Brains go into "automatic mode" during the **habit loop**, conserving energy. **Charles Duhigg (The Power of Habit)**.
+1. Automation makes my **task so small**, it qualifies it as an [Atomic Habit](https://www.goodreads.com/book/show/40121378-atomic-habits) (James Clear).
 
-## Added Benefits
+1. When habits are new, _whole brains work hard_. But, when habits become routine, brain activity shifts deeper, into the **basal ganglia**, near emotion and motor control. Brains go into "automatic mode" during the **habit loop**, conserving energy. [The Power of Habit](https://www.goodreads.com/book/show/12609433-the-power-of-habit?from_search=true&from_srp=true&qid=h47hXulPCZ&rank=4) (Charles Duhigg).
+
+## Habit Loops and Teaching
+
+Ultimately, this little automation should conserve my resources for the goal of teaching:
+
+"**Automaticity is the advantage that independent learners have over dependent learners**," writes Zaretta Hammond, in [Culturally Responsive Teaching and The Brain](https://www.goodreads.com/book/show/23468051-culturally-responsive-teaching-and-the-brain) (133). As teachers, "We want to make these routines part of a **cognitive habit loop** that, over time and with repeated use, becomes automatic for the student."
+
+| **Cognitive Routine**            | **Description**                                          |
+| -------------------------------- | -------------------------------------------------------- |
+| **Similarities and Differences** | Compare how concepts or objects are alike and different. |
+| **Whole to Part**                | Break a whole idea into its key parts to understand it.  |
+| **Relationships**                | Identify how ideas or events are connected.              |
+| **Perspectives**                 | Consider multiple viewpoints on an issue or idea.        |
+
+Look at me, practicing the _Relationships_ routine. 💅🏼
+
+## Downstream Data Processing
 
 The `category` value in the data structure enables me to coordimate different downstream automations or processes for the different workflows related to that category of data.
 
@@ -79,12 +130,14 @@ As a computer science teacher, I also help students anticipate how our data on t
 
 ## Tools (to build the automation)
 
-| Tool                                                                 | Cost | Platform     | What it does                         |
-| -------------------------------------------------------------------- | ---- | ------------ | ------------------------------------ |
-| [Shortcuts App](https://apps.apple.com/us/app/shortcuts/id915249334) | Free | iOS, MacOS   | Voice transcription, GET/POST, JSON. |
-| [IFTTT](https://ifttt.com)                                           | Free | web & mobile | Create and program the Webhook.      |
-| [Google Sheets](https://docs.google.com/spreadsheets)                | Free | web & mobile | Stores the structured data.          |
-| [Freesound.org](https://freesound.org/search/?q=beep&f=&d1=1)        | Free | web          | Add a 'success' chime (optional).    |
+| Tool                                                                 | Cost         | Platform     | What it does                         |
+| -------------------------------------------------------------------- | ------------ | ------------ | ------------------------------------ |
+| [Shortcuts App](https://apps.apple.com/us/app/shortcuts/id915249334) | Free         | iOS, MacOS   | Voice transcription, GET/POST, JSON. |
+| [IFTTT Webhooks](https://ifttt.com)                                  | (Not Free\*) | web & mobile | Create and program the Webhook.      |
+| [Google Sheets](https://docs.google.com/spreadsheets)                | Free         | web & mobile | Stores the structured data.          |
+| [Freesound.org](https://freesound.org/search/?q=beep&f=&d1=1)        | Free         | web          | Add a 'success' chime (optional).    |
+
+_\*IFTTT removed Webhooks from the FREE services tier in 2024. 😢_
 
 ## Tools (to record the video tutorial)
 
