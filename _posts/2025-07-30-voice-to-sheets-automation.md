@@ -2,8 +2,7 @@
 title: "Log Data Automation (Voice→Sheets)"
 date: 2025-07-30T00:00:20+0000
 categories: [projects]
-tags:
-  [audio, hack the classroom, tools, solving everyday problems, greatest hits]
+tags: [audio, hack the classroom, tools, solving everyday problems]
 description: Log structured data with voice commands only. 😇
 toc: true
 pin: true

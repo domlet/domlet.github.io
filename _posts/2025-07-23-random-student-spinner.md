@@ -63,43 +63,43 @@ Anyone can use this tool. It costs nothing to download, copy, publish or modify.
 
 1. **The easiest way** is to replace the names in [this p5js sketch](https://editor.p5js.org/domlet/sketches/G3FnfFgth) and run the tool in your web browser. But that is not best practice for keeping student information (like first and last names) private. Compromising our students' privacy can risk the safety of children and families with citizenship or other insecurities in a surveillance state. (So please don't.)
 
-1. **The safest way** is to follow these steps ([watch this video](https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey))...
+1. **The safest way** is to follow these steps ([watch this video](https://youtu.be/2QbLoHuAkLg?si=1ldm9RTIQHhllZp3))...
 
-   1. [Download the project from p5js](https://editor.p5js.org/domlet/sketches/G3FnfFgth) or [the GitHub repo](https://github.com/domlet/spinner) and save it your computer. You can run the app locally, even without an Internet connection.
+  <iframe height="450" src="https://www.youtube.com/embed/2QbLoHuAkLg?si=JYLRYFgWOj4xRy6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-   1. Then, open `sketch.js` and add each of your groups at the top of that file as lists ([arrays](https://www.w3schools.com/js/js_arrays.asp)), like this example, which shows two lists called `period1` and `period2`:
-      ```js
-      const period1 = ["Aaliyah", "Mateo", "Nia", "Kenji"];
-      const period2 = ["Jana", "Mahlia", "Scott", "Eduardo"];
-      ```
-   1. When you want to switch to a specific group, scroll down to find where the value of `names` is assigned. It will look like this:
-      ```js
-      let names = period1;
-      ```
-   1. On that line, change only the value **on the right side** of the equals sign (`=`), like this:
+1.  [Download the project from p5js](https://editor.p5js.org/domlet/sketches/G3FnfFgth) or [the GitHub repo](https://github.com/domlet/spinner) and save it your computer. You can run the app locally, even without an Internet connection.
 
-      ```js
-      let names = period2;
-      ```
+1.  Then, open `sketch.js` and add each of your groups at the top of that file as lists ([arrays](https://www.w3schools.com/js/js_arrays.asp)), like this example, which shows two lists called `period1` and `period2`:
+    ```js
+    const period1 = ["Aaliyah", "Mateo", "Nia", "Kenji"];
+    const period2 = ["Jana", "Mahlia", "Scott", "Eduardo"];
+    ```
+1.  When you want to switch to a specific group, scroll down to find where the value of `names` is assigned. It will look like this:
+    ```js
+    let names = period1;
+    ```
+1.  On that line, change only the value **on the right side** of the equals sign (`=`), like this:
 
-   1. When you save your changes to `sketch.js` and reload your `index.htm` file in your web browser, your spinner should show the updated group of names.
-   1. To run the app, I use [Visual Studio Code](https://code.visualstudio.com/download) IDE with the [Live Server extension](https://ritwickdey.github.io/vscode-live-server/) – but you can also use these options:
+    ```js
+    let names = period2;
+    ```
 
-      **Python:**
+1.  When you save your changes to `sketch.js` and reload your `index.htm` file in your web browser, your spinner should show the updated group of names.
+1.  To run the app, I use [Visual Studio Code](https://code.visualstudio.com/download) IDE with the [Live Server extension](https://ritwickdey.github.io/vscode-live-server/) – but you can also use these options:
 
-      ```bash
-      python3 -m http.server
-      ```
+    **Python:**
 
-      **Node.js:**
+    ```bash
+    python3 -m http.server
+    ```
 
-      ```bash
-      npx http-server
-      ```
+    **Node.js:**
 
-   1. **Need help?** Here's a [short video](https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey) demonstrating how to follow the steps above.
+    ```bash
+    npx http-server
+    ```
 
-      <a href="https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey" target="_blank"><img src="/assets/img/spinner/youtube-th-anim.gif" style="border:1px solid black;" alt="GIF preview of YouTube instructional video"></a>
+1.  **Need help?** Here's a [short video](https://www.youtube.com/watch?v=TTn8ZC9z4yg&ab_channel=dombrassey) demonstrating how to follow the steps above.
 
 ## Further development
 
