@@ -33,7 +33,7 @@ While [Factile](https://www.playfactile.com/), [Jeopardy Labs](https://jeopardyl
 
 <div class="box-info">
 <div class="title"> What's a CSV?</div>
-A <strong>CSV</strong> file is like a spreadsheet, but simpler. It's a text-only file that stores data in rows and columns. Columns are separated by commas. Rows are separated by line breaks. View <a href="https://raw.githubusercontent.com/domlet/jeopardy-csv/refs/heads/main/sample.csv" target="_blank">raw CSV data</a> or download this <a href="assets/img/jeopardy-csv/sample.csv">sample.csv</a>.
+A <strong>CSV</strong> file is like a spreadsheet, but simpler. It's a text-only file that stores data in rows and columns. Columns are separated by commas. Rows are separated by line breaks. View <a href="https://raw.githubusercontent.com/domlet/jeopardy-csv/refs/heads/main/sample.csv" target="_blank">raw CSV data</a> or download this <a href="https://domlet.github.io/jeopardy-csv/sample.csv">sample.csv</a>.
 </div>
 
 ## What Did I Create?
