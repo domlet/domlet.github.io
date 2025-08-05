@@ -38,9 +38,15 @@ A <strong>CSV</strong> file is like a spreadsheet, but simpler. It's a text-only
 
 ## What Did I Create?
 
-With assistance from ChatGPT and GitHub Copilot, it took me about 2 weeks to deploy a [playable version of the game](https://domlet.github.io/jeopardy-csv), as I envisioned it.
+I used **ChatGPT** and **GitHub Copilot** to help me cruise through the development process.
 
-## Video Tutorial
+- [PLAY THE GAME](https://domlet.github.io/jeopardy-csv). (Desktop, not phone.)
+
+### Instructions
+
+I wrote [instructions here](https://github.com/domlet/jeopardy-csv?tab=readme-ov-file#jeopardy-csv), where you can also clone or download the code for the project.
+
+### Video Tutorial
 
 Naturally, I created a [video tutorial](https://youtu.be/ntUGZEJkuoA). I fix bugs while I record these tutorials, so recording is the long twilight of the development process.
 
