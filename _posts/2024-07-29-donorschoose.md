@@ -19,6 +19,7 @@ image:
 
 ## We did it!
 
+1. [Tools for Student Cycling Team](https://www.donorschoose.org/project/tools-for-student-cycling-team/9446954/?rf=link-dc-2025-08-teacher_profile-teacher_8637964&challengeid=22010160) - Aug 25, 2025
 1. [DIY Drums for Digital Arts Students](https://www.donorschoose.org/project/diy-drums-for-digital-arts-students/9430747/) - Jul 15, 2025
 1. [Engineering Oakland: Students Build a Scraper Bike DJ Station](https://www.donorschoose.org/project/engineering-oakland-students-build-a-sc/9287964/?utm_source=dc&utm_medium=page&utm_campaign=project&utm_term=teacher_8637964&rf=page-dc-2025-06-project-teacher_8637964&challengeid=22010160) - May 9, 2025
 1. [Recording Studio for Game Designers](https://www.donorschoose.org/project/recording-studio-for-game-designers/8952788/) - Apr 24, 2025
