@@ -57,5 +57,5 @@ _A lot can happen in an 8x8 booth._
 
 If you plan to publish images or use them in printed or distributed materials, obtain media releases from your participants:
 
-- [media-release-form-adult.pdf](assets/img/diy-photobooth/media-release-form-adult.pdf)
-- [media-release-form-minor.pdf](assets/img/diy-photobooth/media-release-form-minor.pdf)
+- [media-release-form-adult.pdf]({{ 'assets/img/diy-photobooth/media-release-form-adult.pdf' | relative_url }})
+- [media-release-form-minor.pdf]({{ 'assets/img/diy-photobooth/media-release-form-minor.pdf' | relative_url }})
