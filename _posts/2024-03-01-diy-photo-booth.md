@@ -5,7 +5,7 @@ categories: [projects]
 tags: [solving everyday problems]
 description: Just an iPad + tripod + app.
 toc: true
-pin: true
+pin: false
 image:
   path: /assets/img/th-domlet-diy-photobooth-1200x630.jpg
   alt: Photobooth outtakes are beautiful everyday things
