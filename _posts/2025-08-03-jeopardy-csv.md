@@ -2,7 +2,8 @@
 title: "Jeopardy-CSV (Free Classroom Game)"
 date: 2025-08-03T00:00:20+0000
 categories: [projects]
-tags: [audio, hack the classroom, tools, solving everyday problems]
+tags:
+  [audio, hack the classroom, tools, solving everyday problems, greatest hits]
 description: Drag-and-drop your CSV file to create a new game.
 toc: true
 pin: true

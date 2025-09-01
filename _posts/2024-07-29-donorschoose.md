@@ -2,7 +2,14 @@
 title: "DonorsChoose projects"
 date: 2025-05-15T16:47:20+0000
 categories: [projects]
-tags: [solving everyday problems, accessibility, teaching, greatest hits]
+tags:
+  [
+    solving everyday problems,
+    accessibility,
+    teaching,
+    greatest hits,
+    hack the classroom,
+  ]
 description: Creating a creative workspace for students.
 toc: true
 pin: true
@@ -57,7 +64,7 @@ The disparity that California students experience as a result of this tax struct
 
 ## \*The time that W. Kamau Bell won $1M on Celebrity Jeopardy
 
-![test](assets/img/donorschoose-kamau-jeopardy.jpg)
+![W. Kamau Bell won Celebrity Jeopardy](assets/img/donorschoose-kamau-jeopardy.jpg)
 
 DonorsChoose board member [W. Kamau Bell won Celebrity Jeopardy!](https://oaklandside.org/2025/04/24/w-kamau-bell-donates-his-celebrity-jeopardy-winnings-to-oakland-schools/) on April 23, 2025 – and used some of the $1M prize to sponsor ALL of the posted projects from teachers in the the Oakland Unified School District AND in Mobile, Alabama, where his dad lives. He also applied some of the prize money to match donations made to projects in the cities where he does stand-up comedy – like Chicago, Illinois, and Bloomington, Indiana. In [his own words](https://www.jeopardy.com/jbuzz/tournament-stories/w-kamau-bell-i-won-celebrity-jeopardy):
 

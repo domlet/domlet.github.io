@@ -6,7 +6,7 @@ tags:
   [
     teaching, Oakland, Oakland Unified School District, Coliseum College Prep Academy, CCPA,
     makerspace,solving everyday problems,
-maker educator,    Sonoma State University, design, greatest hits
+maker educator,    Sonoma State University, design, greatest hits, hack the classroom
   ]
 description: Makerspace-enabled classroom for robotics, game design, and computer science.
 toc: true
