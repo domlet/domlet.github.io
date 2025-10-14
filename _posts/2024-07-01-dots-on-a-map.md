@@ -29,7 +29,7 @@ See the [live map here](https://domlet.github.io/points-on-a-map-csv-py/).
 
 ## Inspired by a list of 'designated landmarks'
 
-I found a list of 145 [Designated Landmarks in the City of Oakland](https://www.oaklandca.gov/topics/list-of-designated-landmarks) (California, USA), and I wanted to see how many landmarks were buildings with Black or non-white architects, since Oakland is well known historically as a "[Chocolate City](https://en.wikipedia.org/wiki/Chocolate_City_speech#:~:text=In%20African%20American%20culture%2C%20the,or%20African%20American%20political%20leadership.)".
+I found a list of 145 [Designated Landmarks in the City of Oakland](https://www.oaklandca.gov/Planning-Building/Historic-Preservation/List-of-Designated-Landmarks) (California, USA), and I wanted to see how many landmarks were buildings with Black or non-white architects, since Oakland is well known historically as a "[Chocolate City](https://en.wikipedia.org/wiki/Chocolate_City_speech#:~:text=In%20African%20American%20culture%2C%20the,or%20African%20American%20political%20leadership.)".
 
 I also wanted to see if there were any designated landmarks recognizing the Oakland birthplace of the legendary Black Panther Party, responsible for much the influential Black Power cultural and political movement of the late American Civil Rights era in the 1960s and 70s.
 
