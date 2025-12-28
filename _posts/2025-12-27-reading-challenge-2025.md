@@ -22,7 +22,7 @@ image:
 
 <iframe height="450" src="https://www.youtube.com/embed/7AgqeA5n5Uw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I listened to the [Kevin R Free](https://www.kevinrfree.com/audiobook-narrator) audiobooks for all of [The Murderbot Diaries]() books, [free on Hoopla](https://www.hoopladigital.com/series/murderbot-diaries/6999173400) through my local library. I really enjoyed the hacking and security-focused narration by the human/computer hybrid (known in Wells' world as a Construct). The futuristic non-corporate utopia also reminded me of [the controvertial last season of Sex Education](https://www.google.com/search?q=woke+the+last+season+of+Sex+Education).
+I listened to the [Kevin R Free](https://www.kevinrfree.com/audiobook-narrator) audiobooks for all of [The Murderbot Diaries](https://www.hoopladigital.com/series/murderbot-diaries/6999173400) books, [free on Hoopla](https://www.hoopladigital.com/series/murderbot-diaries/6999173400) through my local library. I really enjoyed the hacking and security-focused narration by the human/computer hybrid (known in Wells' world as a Construct). The futuristic non-corporate utopia also reminded me of [the controvertial last season of Sex Education](https://www.google.com/search?q=woke+the+last+season+of+Sex+Education).
 
 ## All books
 
