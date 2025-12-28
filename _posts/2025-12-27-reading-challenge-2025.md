@@ -16,7 +16,7 @@ image:
 10. [_Shantaram_](https://www.goodreads.com/book/show/33600.Shantaram)
 11. [_Unrig the Game: What Women of Color Can Teach Everyone About Winning_](https://www.goodreads.com/book/show/214269378-unrig-the-game)
 12. [_Race After Technology: Abolitionist Tools for the New Jim Code_](https://www.goodreads.com/book/show/42527493-race-after-technology)
-14. [_Borrowed Time: An AIDS Memoir_]([52614.Borrowed_Time](https://www.goodreads.com/book/show/2381846.Borrowed_Time))
+13. [_Borrowed Time: An AIDS Memoir_](https://www.goodreads.com/book/show/2381846.Borrowed_Time)
 
 ### The Murderbot Diaries
 
