@@ -19,7 +19,7 @@ I used ChatGPT and GitHub CoPilot to try some experiments with interactive 3D di
 
 I wanted to teach my students how to create something like [57° North – an interactive AR storybook for the Merge Cube](https://www.mightycoconut.com/57north) but the Merge EDU platform was gatekeepy and required a [paid subscription](https://www.mergeedu.com/pricing/edu#compare). ([Twinery.org](https://Twinery.org) is free, open source, and web-based – so I may come back to that.)
 
-So, I tried to use [AR.js](https://ar-js-org.github.io/AR.js-Docs/) to create a 6-sided cube that I could interact with using cube with the same [hiro marker](https://raw.githubusercontent.com/domlet/ar-test/main/img/hiro.png) on each side. I created some test markers [[1]](marker.html),[[2]](marker2.html) to point my camera at:
+So, I tried to use [AR.js](https://ar-js-org.github.io/AR.js-Docs/) to create a 6-sided cube that I could interact with using cube with the same [hiro marker](https://raw.githubusercontent.com/domlet/ar-test/main/img/hiro.png) on each side. I created some test markers [[1]](https://domlet.github.io/ar-test/marker.html),[[2]](https://domlet.github.io/ar-test/marker2.html) to point my camera at:
 
 ![demo hiro markers for testing](https://raw.githubusercontent.com/domlet/ar-test/main/img/demo-markers.gif)
 
