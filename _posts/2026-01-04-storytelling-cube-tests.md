@@ -27,7 +27,7 @@ So, I tried to use [AR.js](https://ar-js-org.github.io/AR.js-Docs/) to create a 
 
 1. A user can open [index.html](https://domlet.github.io/ar-test/index.html) on any device with a web browser and a camera. (Go ahead – try it now!)
 2. The user must **give the app permission** to activate you device's camera and access the camera image. 
-3. Then, the user should **point their camera** at the the `hiro.png` marker. 
+3. Then, the user should **point their camera** at the the [`hiro.png` marker](https://domlet.github.io/ar-test/marker.html). 
 4. When the app recognizes the marker in the camera image, it should anchor the 3D experience on that marker. _But, it fails!_
 
 ### Why does it fail?
@@ -130,3 +130,4 @@ I know that I could understand the spatial math and the camera conventions if I 
 
 But, I'm not that programmer. I help students explore game mechanics and experiment with novel digital instruments for storytelling and interaction. In the end, I like to know what's in the weeds, but that's not where I live. I'm now going to learn what we can build with just [Twine](https://www.youtube.com/watch?v=ZnARX2ToqYc&t=68s)!
 
+I spent less than 24 hours on these experiments (and the writeup).
