@@ -10,15 +10,23 @@ image:
   alt: Click to see more books from this year's reading challenge.
 ---
 
-## Top recommendations
+## Top Podcast Episode
 
-9. [_The End of Reality: How Four Billionaires are Selling a Fantasy Future of the Metaverse, Mars, and Crypto_](https://www.goodreads.com/book/show/66094353-the-end-of-reality)
-10. [_Shantaram_](https://www.goodreads.com/book/show/33600.Shantaram)
-11. [_Unrig the Game: What Women of Color Can Teach Everyone About Winning_](https://www.goodreads.com/book/show/214269378-unrig-the-game)
-12. [_Race After Technology: Abolitionist Tools for the New Jim Code_](https://www.goodreads.com/book/show/42527493-race-after-technology)
-13. [_Borrowed Time: An AIDS Memoir_](https://www.goodreads.com/book/show/2381846.Borrowed_Time)
+### "Growth Discourse: A Framework for Discussing Hard Topics with Students"
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5BeRJ08UP5JDnY45ud2GBA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### The Murderbot Diaries
+When differences of opinion present a potential minefield of hurt feelings, emotional outbursts, and severed relationships, some conversation leaders avoid certain topics in our learning spaces. The growth discourse framework used by the School of Ethics and Global Leadership (SEGL) offers a way to re-engage in these conversations. [Jennifer Gonzalez talks with SEGL founder Noah Bopp](https://www.cultofpedagogy.com/growth-discourse/) about how the growth discourse model works and how teachers can get started using it, in [Episode #265 of The Cult of Peagogy Podcast](https://www.cultofpedagogy.com/growth-discourse/) (December 7, 2025). Notes: [Full transcript and links](https://www.cultofpedagogy.com/growth-discourse/) to the growth discourse guidelines and the sample lesson plan we talked about in the episode. And [Grammar Gap Fillers](https://www.cultofpedagogy.com/grammar/).
+
+## Top book recommendations
+
+1. [_The End of Reality: How Four Billionaires are Selling a Fantasy Future of the Metaverse, Mars, and Crypto_](https://www.goodreads.com/book/show/66094353-the-end-of-reality)
+2.  [_Shantaram_](https://www.goodreads.com/book/show/33600.Shantaram)
+3.  [_Unrig the Game: What Women of Color Can Teach Everyone About Winning_](https://www.goodreads.com/book/show/214269378-unrig-the-game)
+4.  [_Race After Technology: Abolitionist Tools for the New Jim Code_](https://www.goodreads.com/book/show/42527493-race-after-technology)
+5.  [_Borrowed Time: An AIDS Memoir_](https://www.goodreads.com/book/show/2381846.Borrowed_Time)
+
+
+### Best Fictional Sci-Fi Series: The Murderbot Diaries
 
 <iframe height="450" src="https://www.youtube.com/embed/7AgqeA5n5Uw?rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
