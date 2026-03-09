@@ -12,10 +12,11 @@ image:
 
 ## Top Podcast Episode
 
-### "Growth Discourse: A Framework for Discussing Hard Topics with Students"
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5BeRJ08UP5JDnY45ud2GBA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-When differences of opinion present a potential minefield of hurt feelings, emotional outbursts, and severed relationships, some conversation leaders avoid certain topics in our learning spaces. The growth discourse framework used by the School of Ethics and Global Leadership (SEGL) offers a way to re-engage in these conversations. [Jennifer Gonzalez talks with SEGL founder Noah Bopp](https://www.cultofpedagogy.com/growth-discourse/) about how the growth discourse model works and how teachers can get started using it, in [Episode #265 of The Cult of Peagogy Podcast](https://www.cultofpedagogy.com/growth-discourse/) (December 7, 2025). Notes: [Full transcript and links](https://www.cultofpedagogy.com/growth-discourse/) to the growth discourse guidelines and the sample lesson plan we talked about in the episode. And [Grammar Gap Fillers](https://www.cultofpedagogy.com/grammar/).
+Dec 7, 2025:
+
+> When differences of opinion present a potential minefield of hurt feelings, emotional outbursts, and severed relationships, some conversation leaders avoid certain topics in our learning spaces. In episode #265 of the The Cult of Peagogy Podcast, [Jennifer Gonzalez talks with SEGL founder Noah Bopp](https://www.cultofpedagogy.com/growth-discourse/) about how the growth discourse framework used by the School of Ethics and Global Leadership (SEGL) offers a way to re-engage in these conversations. PS: [Grammar Gap Fillers](https://www.cultofpedagogy.com/grammar/).
 
 ## Top book recommendations
 
